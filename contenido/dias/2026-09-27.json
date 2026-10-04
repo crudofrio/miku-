@@ -1,0 +1,30 @@
+{
+  "fecha": "2026-09-27",
+  "titulo": "Domingo de cobija",
+  "frases": [
+    "Domingo: el día en que el despertador merece una demanda colectiva.",
+    "Si hoy solo lograste estirarte y mirar el techo, felicitaciones: eso cuenta como agenda cumplida.",
+    "Dato Vocaloid: Crypton le puso a Miku el código CV01. Tú hoy eres CV-siesta.",
+    "Las coletas turquesa votaron por cobija, tintico tibio y cero afán. Quedó 2 a 0.",
+    "Domingo santo de no abrir el correo. Si te llega algo urgente, que sea un meme.",
+    "Curiosidad: en 2007 Miku salió al mundo y todavía no le pagan horas extras de fin de semana. Solidaridad.",
+    "Hoy el chiste viene en pijama. Si no te da risa, es porque aún estás soñando. Bien.",
+    "Hidratate como si fueras un escenario vacío después del concierto: callado, fresco y con agua.",
+    "El Chromebook en el stand y tú en la cama. División del trabajo perfecta, parce.",
+    "Si alguien te invita a productividad un domingo, dile que Miku auditó el plan y lo mandó a spam.",
+    "Ánimo suavecito: mañana es lunes, pero hoy todavía puedes fingir que el tiempo no existe.",
+    "Domingo de playlist mental: una balada, un snack y cero notificaciones. Yo cuidando el paisaje."
+  ],
+  "por_variante": {
+    "pixel": ["Domingo en 8 bits: FPS bajitos, cobija a full. Nivel 'no me levanto' completado."],
+    "chibi": ["¡Dominguito chiquito! Si me enrollo más, que sea en la almohada más suave."],
+    "samurai": ["El bushido del domingo: no desenvainar la agenda. Medita. Respira. Ignora el chat."],
+    "cyberpunk": ["Neón en modo domingo. La ciudad duerme; yo brillo bajito para no molestar tu siesta."],
+    "bruja": ["Todavía no es octubre, pero ya estoy preparando un hechizo de 'cinco minutitos más'."],
+    "sakura": ["Pétalos de domingo: caen lento, sin prisa, sin reunión. Florece cuando te dé la gana."],
+    "carreras": ["Bandera a cuadros del domingo: motor apagado, conductor en pijama, pits cerrados."],
+    "sirena": ["Las olas del domingo no tienen horario. Nada con la corriente de la cobija."],
+    "astronauta": ["Desde la órbita el domingo se ve esférico y flojo. Misión: gravedad cero y cero mails."],
+    "colombiana": ["¡Qué más, domingo! Un tintico, una cobijita y cero afán, parce. Eso es vivir."]
+  }
+}

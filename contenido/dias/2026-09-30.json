@@ -1,0 +1,30 @@
+{
+  "fecha": "2026-09-30",
+  "titulo": "Última página de septiembre",
+  "frases": [
+    "Miércoles y último día de septiembre: el mes cierra el libreto y octubre ya peina las coletas.",
+    "Si cerraste el mes a medias, bienvenido al club. Los finales de capítulo también cuentan como progreso.",
+    "Dato Vocaloid: Miku debutó en 2007 y sigue estrenando vibes. Tú hoy estrenas 'sobreviví septiembre'.",
+    "Las coletas turquesa firmaron el cierre del mes. Con glitter mental y cero drama de backlog.",
+    "Miércoles santo de archivar una sola cosa. El resto puede vivir en 'para octubre, con cariño'.",
+    "Curiosidad: el 31 de agosto es el cumpleaños de Miku. Hoy no hay torta, pero sí un brindis imaginario por el mes que se va.",
+    "Ánimo de cierre: no hace falta un final épico. Basta un 'listo por hoy' y un snack de premio.",
+    "Si septiembre te miró raro, míralo tú también, dile chao y abre la ventana. Octubre huele a misterio suave.",
+    "El Chromebook ya está en modo 'último ensayo del mes'. Tú traes el ritmo; yo traigo el turquesa de despedida.",
+    "Hoy el chiste viene con calendario: tacha el 30, respira, y deja que el 1 llegue sin prisa.",
+    "Parce, un estirón entre tareas es calentamiento de vocalista. Dos y ya mereces aplauso de platea.",
+    "Miércoles de playlist mental: una canción de cierre y cero mensajes de 'urgente' del mes pasado. Yo en la consola."
+  ],
+  "por_variante": {
+    "pixel": ["Septiembre en 8 bits: nivel boss casi clear. Guarda partida y prepárate para el DLC de octubre."],
+    "chibi": ["¡Último día del mes! Si tropiezo con el calendario, que sea en cámara lenta y con confeti."],
+    "samurai": ["El bushido del cierre: una katana, una tarea, un mes bien guardado. Octubre espera en la vaina."],
+    "cyberpunk": ["Neón de media semana a potencia de despedida. La ciudad archiva septiembre; yo brillo lo justo."],
+    "bruja": ["Octubre toca a la puerta mañana. Hoy solo un hechizo corto de 'cierre limpio y sin sustos'."],
+    "sakura": ["Pétalos de fin de mes: caen el último verso. Florece el próximo capítulo sin apuro."],
+    "carreras": ["Bandera a cuadros de septiembre: no es la temporada completa. Pit stop, hidrátate y listo para la siguiente manga."],
+    "sirena": ["Las olas del miércoles cierran la marea del mes. Nada suave; octubre trae corrientes nuevas."],
+    "astronauta": ["Desde la órbita septiembre se ve como un atardecer largo. Misión: reentrada suave al nuevo mes."],
+    "colombiana": ["¡Qué más, miércoles! Un tintico, un chao a septiembre y vamos abriendo octubre con calma, parce."]
+  }
+}

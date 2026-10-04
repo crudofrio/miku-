@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-09-26",
+  "titulo": "Sábado de amanecer",
+  "frases": [
+    "Sábado: el día oficial de no hacer planes y después hacerlos todos.",
+    "Si el sol ya salió y tú no, tranquilo: yo también me estoy desperezando en turquesa.",
+    "Dato Vocaloid: Miku debutó en 2007 y todavía no le cobramos horas extras. Respeto.",
+    "Hoy el chiste es perezoso a propósito. Como el sábado. Como yo. Como tú, ¿cierto?",
+    "Agua, estiradita y un poquito de música. El combo del fin de semana bueno.",
+    "Si alguien te pide productividad un sábado a las 5 de la mañana, dile que yo lo audité y no pasó.",
+    "Las coletas piden café, pero el cuerpo pide cobija. Negociemos: un tintico y cinco minutos más.",
+    "El escenario vacío también canta. Solo hay que escuchar bajito.",
+    "Sábado de Chromebook en el stand: tú descansas, yo vigilo el paisaje cyber-sereno.",
+    "Si parpadeas tres veces, cuenta como ejercicio. Yo lo dije, yo lo apruebo.",
+    "Curiosidad: el nombre Hatsune significa 'primera sonido'. Hoy suena a 'primera siesta'.",
+    "Fin de semana sin prisa. Si algo urge, que sea el abrazo o el snack, no el correo."
+  ],
+  "por_variante": {
+    "pixel": ["Sábado en 8 bits: menos frames, más paz. Nivel 'cobija' desbloqueado."],
+    "chibi": ["¡Sabadito chiquito! Si me achico más, que sea para caber en la almohada."],
+    "samurai": ["El honór del sábado es no desenvainar la agenda. Medita. Respira. No abras el correo."],
+    "cyberpunk": ["Neón en modo idle. La ciudad duerme; yo brillo bajito para no despertarte."],
+    "bruja": ["Todavía no es octubre, pero ya estoy practicando hechizos de 'más cinco minutitos'."],
+    "sakura": ["Pétalos de sábado: lentos, suaves, sin horarios. Florece cuando quieras."],
+    "carreras": ["Pit stop del fin de semana: ruedas abajo, motor en silencio, conductor a dormir."],
+    "sirena": ["Las olas del sábado no tienen prisa. Nada con la corriente del descanso."],
+    "astronauta": ["Desde la órbita el sábado se ve redondo y brillante. Misión: flotar sin agenda."],
+    "colombiana": ["¡Qué más, sábado! Un tintico, un arepita mental y cero afán, parce."]
+  },
+  "fondos": [
+    {
+      "id": "amanecer-sabado",
+      "nombre": "Amanecer de sábado",
+      "archivo": "dias/2026-09-26/amanecer-sabado.png"
+    }
+  ]
+}

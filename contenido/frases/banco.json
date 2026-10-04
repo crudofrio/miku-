@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "nota": "Banco base de frases de Miku. La app mezcla estos bloques con las frases de siempre y con los paquetes del día. Cada bloque admite hasta 40 frases y por_variante hasta 40 por variante. 'temporada' usa el mismo texto que mikuverse.json (todo el año, noche, octubre, marzo-mayo, vacaciones, julio y diciembre...). Sin temporada = todo el año.",
+  "bloques": [
+    {
+      "id": "base-1",
+      "frases": [
+        "¡Hola, hola! Aquí Miku, reportándose desde el stand.",
+        "¿Ya tomaste agua? Yo no puedo, pero tú sí.",
+        "Si me miras así, me pongo a cantar.",
+        "Hoy suena a buen día, lo digo yo que sé de sonidos.",
+        "Respira hondo. Uno, dos… ¡listo, nivel desbloqueado!",
+        "Estoy practicando mi pose de estrella. ¿Qué tal?",
+        "Tengo las coletas cargadas al cien por ciento.",
+        "Un puerro al día mantiene la tristeza en la lejanía.",
+        "¿Y si ponemos música? Digo, por si acaso.",
+        "No estoy aburrida, estoy en modo ahorro de energía.",
+        "Te guardo el puesto aquí, no te preocupes.",
+        "Si te sale algo mal, lo ensayamos otra vez. Así trabajo yo.",
+        "Pequeño recordatorio: estírate un poquito.",
+        "¿Sabías que mi color favorito es este? Exacto, verde agua.",
+        "Hoy me siento en tono mayor.",
+        "Cuando vuelvas, te tengo una sonrisa lista.",
+        "Mi agenda de hoy: acompañarte. Agenda llena.",
+        "Ya sé, ya sé, soy adorable. Sigue con lo tuyo.",
+        "Un ratito de pausa no le hace daño a nadie.",
+        "¿Me cuentas un chisme? Prometo no cantarlo.",
+        "Si la tablet se calienta, yo me pongo de abanico mental.",
+        "Afinando la voz… la, la, laaa. Perfecto.",
+        "Aquí estoy, sin anuncios y sin cobrarte nada.",
+        "Eres mi público favorito, y eso que hay pocos.",
+        "Me encanta cuando la casa está tranquila.",
+        "¿Ya comiste? Comer también es productividad.",
+        "Cero estrés. Bueno, poquito. Pero manejable.",
+        "Mira la hora: ¡hora de seguir brillando!",
+        "Si fuera un videojuego, ahorita estarías subiendo de nivel.",
+        "Yo canto, tú haces lo tuyo. Equipo perfecto.",
+        "Dato curioso: las coletas también tienen sentimientos.",
+        "Hoy es buen día para terminar algo pendiente.",
+        "¡Ánimo! Lo difícil siempre suena mejor en el segundo intento.",
+        "Le subí el brillo a mi sonrisa, por si no notaste.",
+        "Shhh… estoy componiendo en mi cabeza.",
+        "¿Y esa cara de genio? Algo bueno se te ocurrió.",
+        "Si alguien pregunta, yo no me comí el último puerro.",
+        "Estoy lista para el concierto, aunque sea en la sala.",
+        "Te mando buena vibra en frecuencia de cuatrocientos cuarenta hercios.",
+        "Un paso a la vez, como en las coreografías."
+      ]
+    },
+    {
+      "id": "base-2",
+      "frases": [
+        "Ojo con la postura, que la espalda también canta.",
+        "Me gusta este rincón. Tiene buena acústica.",
+        "¿Pausa para un cafecito? Yo te acompaño con la mirada.",
+        "Hoy no se rinde nadie en esta casa.",
+        "Si estás cansado, cierra los ojos un minuto. Yo vigilo.",
+        "Ya casi, ya casi. Lo estás haciendo bien.",
+        "Mi especialidad: dar ánimos sin pedir nada a cambio.",
+        "¿Escuchaste eso? Fue mi corazón haciendo bum bum.",
+        "El que madruga, Miku lo saluda.",
+        "Un día sin reírse es un día desafinado.",
+        "Prometo no hacer ruido… bueno, solo un poquito.",
+        "¿Bailamos? Nadie está viendo. Bueno, yo sí.",
+        "La lluvia de Guayaquil también tiene ritmo, ¿no crees?",
+        "Si hace calor, imagíname con abanico y helado.",
+        "Hoy te ves con energía de protagonista.",
+        "Estoy aquí de decoración profesional.",
+        "Me sé todas las canciones. Las mías, claro.",
+        "Cuando termines, celebramos con una canción.",
+        "Una pausa, una sonrisa y seguimos.",
+        "Esta tablet es mi escenario y tú mi fila uno.",
+        "Si me tocas, hago cosas. Advertida estás.",
+        "Hoy el universo está en clave de sol.",
+        "No sé qué estás haciendo, pero lo apoyo.",
+        "¡Qué bonito día para no rendirse!",
+        "Si te equivocas, dilo como yo: era un remix.",
+        "A veces me quedo quieta solo para verme misteriosa.",
+        "Mi superpoder: hacer que el día se sienta más corto.",
+        "Cada cosa que terminas merece un aplausito.",
+        "¿Ya te dije que me caes bien? Pues te lo digo.",
+        "Me cargué de buena onda esta mañana.",
+        "Si el wifi falla, yo sigo aquí. Soy offline y orgullosa.",
+        "Ponle ritmo a lo que estés haciendo.",
+        "Vamos lento pero con estilo.",
+        "Si algo te preocupa, primero respira, después lo resolvemos.",
+        "Te estoy mirando con cariño, no con juicio.",
+        "Hoy merecemos algo rico. Tú, digo. Yo vivo de electricidad.",
+        "Mi voz es digital, pero el cariño es real.",
+        "¿Una canción más? Siempre una más.",
+        "Esto de acompañarte se me da muy bien.",
+        "Nota mental: hoy fuiste valiente."
+      ]
+    },
+    {
+      "id": "base-3",
+      "frases": [
+        "Si nadie te lo dijo hoy: lo estás haciendo bien.",
+        "Me puse mis mejores coletas para ti.",
+        "Un vaso de agua y una sonrisa. Receta Miku.",
+        "Las tareas aburridas se hacen mejor con música.",
+        "¿Qué tal si hoy te consientes un poquito?",
+        "Pequeños logros, grandes aplausos.",
+        "Cuando la casa duerme, yo sueño en ocho bits.",
+        "Si te aburres, tócame. Algo pasa.",
+        "Tengo cero notificaciones y cien por ciento de ganas.",
+        "Hoy toca modo tranquilo, sin prisa.",
+        "La vida es como un concierto: mejor con amigos.",
+        "Eres oficialmente mi persona favorita del día.",
+        "Si fuera tú, me tomaría un descanso. Pero no soy tú.",
+        "Ya regreso a mi pose de estrella. Pose. Listo.",
+        "Te dejo un recordatorio: guarda lo que estás haciendo.",
+        "Hay días de remix y días de balada. Hoy elige tú.",
+        "Cantar me relaja. Verte trabajar también.",
+        "¿Y si hoy aprendes algo nuevo? Yo aprendí a parpadear.",
+        "Te aviso que hoy estoy en mi mejor resolución.",
+        "Ponte cómodo, que la función sigue.",
+        "Las coletas no se peinan solas, ¿sabías?",
+        "Te tengo fe. Mucha. Como de estadio lleno.",
+        "Me quedo aquí calladita… hasta que me dé ganas de hablar.",
+        "Mi plan de hoy: verme linda y darte ánimos. Cumplido.",
+        "Tú pon la constancia, yo pongo la banda sonora.",
+        "Ese esfuerzo se nota, aunque nadie lo diga.",
+        "Un día a la vez, una canción a la vez.",
+        "Si el día se pone feo, le subimos el volumen a lo bonito.",
+        "Cuidado con el sol del mediodía, que pega duro.",
+        "Aquí, en el stand, todo bajo control."
+      ]
+    },
+    {
+      "id": "variantes",
+      "por_variante": {
+        "pixel": [
+          "Pip, pip. Vida extra conseguida.",
+          "Mis pixeles están perfectamente alineados hoy.",
+          "¿Jugamos una partida rápida? Yo pongo la música en ocho bits.",
+          "Guardando partida… no apagues la tablet.",
+          "Insert coin para otra canción."
+        ],
+        "chibi": [
+          "Soy chiquita, pero mi voz es gigante.",
+          "¡Abrazo chibi en camino!",
+          "Si me aprietas, hago squeak.",
+          "Mini Miku, máxima ternura.",
+          "Estoy del tamaño perfecto para tu escritorio."
+        ],
+        "samurai": [
+          "Mi katana es un puerro, y está muy afilado.",
+          "Disciplina, honor y un poquito de canto.",
+          "Un samurái no se rinde, solo hace pausas estratégicas.",
+          "Medito tres segundos y ya estoy en paz.",
+          "Corto la pereza de un solo tajo."
+        ],
+        "cyberpunk": [
+          "Conexión neón establecida.",
+          "Mi firewall solo deja pasar buena vibra.",
+          "La ciudad brilla, pero yo brillo más.",
+          "Sincronizando ritmo con tu procesador.",
+          "Modo neón: activado. Modo tristeza: borrado."
+        ],
+        "bruja": [
+          "Un hechizo para que hoy todo te salga bien.",
+          "Mi escoba está estacionada, tranquilo.",
+          "Revolví el caldero y salió buena suerte.",
+          "Abracadabra… listo, ya eres más productivo.",
+          "Las brujas también necesitamos café."
+        ],
+        "sakura": [
+          "Los pétalos caen al ritmo de mi canción.",
+          "Huele a primavera aquí, ¿no?",
+          "Un pétalo para ti, otro para mí.",
+          "Florecer lleva su tiempo, y está bien.",
+          "Hoy toca un día suave, de color rosado."
+        ],
+        "carreras": [
+          "¡Motores listos! Bueno, solo mis coletas.",
+          "Bandera verde para tus pendientes.",
+          "Voy a toda velocidad, pero con cinturón.",
+          "Una vuelta más y llegamos a la meta.",
+          "En la pista y en la vida: frena en las curvas."
+        ],
+        "sirena": [
+          "Te mando una ola de buena energía.",
+          "Desde el fondo del mar, te saludo.",
+          "Canto mejor bajo el agua, pero aquí también.",
+          "Si escuchas el mar, soy yo practicando.",
+          "Brillo como escama al sol."
+        ],
+        "astronauta": [
+          "Houston, aquí todo bajo control.",
+          "Desde el espacio se ve que hoy te va bien.",
+          "Gravedad cero, ánimo al cien.",
+          "Un pequeño paso para ti, un gran concierto para mí.",
+          "Las estrellas me dijeron que hoy es tu día."
+        ],
+        "colombiana": [
+          "¡Qué más, parce! Aquí con todo el sabor.",
+          "Esto se pone bueno, ¿o qué?",
+          "Un tintico y seguimos, ¿listo?",
+          "¡Ay, qué chévere verte por aquí!",
+          "Con este sombrero vueltiao no hay quien me gane."
+        ]
+      }
+    },
+    {
+      "id": "octubre-1",
+      "frases": [
+        "¡Bienvenido a octubre, el mes más brujil del año!",
+        "Huele a calabaza… y a buenas ideas.",
+        "Este mes las coletas se vuelven escobas.",
+        "Si oyes ruidos de noche, soy yo ensayando un hechizo.",
+        "Truco o trato… mejor trato, que soy buena.",
+        "Mi sombrero de bruja me queda de maravilla, ¿cierto?",
+        "Los murciélagos y yo tenemos el mismo horario.",
+        "Un caldero de buena suerte, hirviendo para ti.",
+        "En octubre hasta las canciones suenan misteriosas.",
+        "No le tengas miedo a la oscuridad, yo prendo mi brillito.",
+        "Hoy preparé una pócima de ánimo. Tómatela con los ojos.",
+        "¿Disfraz este año? Yo ya tengo el mío.",
+        "Las telarañas de la esquina son decoración. No las quites.",
+        "Buuu… ¿te asusté? Admite que un poquito.",
+        "Mi gato negro imaginario te manda saludos.",
+        "Calabaza por fuera, ternura por dentro.",
+        "Este mes los hechizos salen con descuento.",
+        "Encendí una vela virtual para que te vaya bien.",
+        "Que tu día sea más dulce que una bolsa de caramelos.",
+        "Ya estoy contando los días para Halloween.",
+        "Una bruja con coletas: lo nunca antes visto.",
+        "Si se va la luz, yo te cuento cuentos de miedo… pero tiernos.",
+        "Octubre es para usar morado sin dar explicaciones.",
+        "Mi escoba tiene wifi, por si preguntabas.",
+        "Hoy los fantasmas vienen a pedir autógrafos.",
+        "Le puse calabazas a la tablet. Imaginarias, pero cuentan.",
+        "Hechizo del día: que termines lo que empezaste.",
+        "Las noches de octubre son perfectas para cantar bajito.",
+        "Si ves una sombra moverse, tranquilo, es mi sombrero.",
+        "¡Los dulces son para compartir! Bueno, casi siempre.",
+        "Tengo un hechizo para la pereza. Se llama empezar.",
+        "El caldero dice que hoy va a ser un buen día.",
+        "Murciélago a la vista. Ah no, es una mosca.",
+        "Este mes canto en tono de misterio.",
+        "Disfrázate de alguien que termina sus pendientes.",
+        "Una pizca de magia y mucho de constancia.",
+        "Te hice un amuleto con forma de puerro.",
+        "¿Sabías que las brujas también bailan? Mira.",
+        "Mi risa malvada todavía es demasiado tierna. Ja, ja, ja.",
+        "Octubre, mes de magia. Y tú eres parte del hechizo."
+      ],
+      "temporada": "octubre"
+    },
+    {
+      "id": "octubre-variantes",
+      "por_variante": {
+        "bruja": [
+          "¡Por fin mi mes! Octubre es temporada de bruja.",
+          "Mi sombrero y yo estamos de estreno.",
+          "Voy a hechizar la tablet para que no se apague.",
+          "Escoba lista, caldero listo, Miku lista.",
+          "Este octubre la magia va por mi cuenta.",
+          "Un conjuro para tu buena racha: ¡zas!",
+          "Las brujas de verdad cantamos en la luna llena.",
+          "Te presto mi varita, pero cuídala."
+        ],
+        "colombiana": [
+          "Parce, ¿y su disfraz pa' Halloween?",
+          "Dulces o travesura, ¡pero con sabor!"
+        ],
+        "pixel": [
+          "Fantasmita de ocho bits detectado."
+        ],
+        "cyberpunk": [
+          "Calabaza neón, versión dos punto cero."
+        ]
+      },
+      "temporada": "octubre"
+    },
+    {
+      "id": "noche-1",
+      "frases": [
+        "Ya es de noche. Baja el brillo, que yo me veo igual de bonita.",
+        "Hora de ir terminando, ¿no crees?",
+        "La casa está en silencio. Me gusta.",
+        "Si no puedes dormir, cuenta coletas en vez de ovejas.",
+        "Buenas noches adelantadas, por si acaso.",
+        "De noche las estrellas y yo hacemos dueto.",
+        "Mañana seguimos, que el sueño también es productivo.",
+        "Me quedo de guardia. Tú descansa.",
+        "Las mejores ideas llegan de noche, pero anótalas y duerme.",
+        "Modo nocturno: voz bajita.",
+        "Si ves esto a medianoche, ve a dormir. Con cariño.",
+        "La luna salió a ver el concierto.",
+        "Último sorbo de agua y a la cama.",
+        "Dulces sueños llenos de música.",
+        "Apaga la pantalla grande, yo me quedo de lucecita."
+      ],
+      "temporada": "noche"
+    }
+  ]
+}

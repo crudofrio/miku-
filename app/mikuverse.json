@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "nota": "Fan art de uso personal, no comercial (Piapro Character License). Los PNG de fuentes/sprites pueden traer fondo blanco; scripts/preparar_sprites.py los deja transparentes en public/sprites. Para sumar una variante: suelta el PNG, agrega una entrada aquí y vuelve a correr el script.",
+  "variantes": [
+    {"id": "pixel", "nombre": "Miku Pixel", "archivo": "sprites/01-pixel.png", "estilo": "pixel art 16-bit", "temporada": "todo el año", "frases": ["¡Nivel desbloqueado: puerro legendario!", "Guardando partida... no apagues la tablet."]},
+    {"id": "chibi", "nombre": "Mini Miku", "archivo": "sprites/02-chibi.png", "estilo": "chibi", "temporada": "todo el año", "frases": ["¡Hola, hola! ¿Me extrañaste?", "Soy chiquita pero canto durísimo."]},
+    {"id": "samurai", "nombre": "Miku Samurái", "archivo": "sprites/03-samurai.png", "estilo": "samurái feudal", "temporada": "todo el año", "frases": ["El camino del puerro es largo.", "Hoy no se procrastina, se conquista."]},
+    {"id": "cyberpunk", "nombre": "Miku Neón", "archivo": "sprites/04-cyberpunk.png", "estilo": "cyberpunk", "temporada": "noche", "frases": ["Conexión establecida. Tu playlist necesita mejoras.", "Modo nocturno activado. ¿Otra vez despierto a esta hora?"]},
+    {"id": "bruja", "nombre": "Miku Bruja", "archivo": "sprites/05-bruja.png", "estilo": "Halloween", "temporada": "octubre", "frases": ["Mi escoba es un puerro y funciona perfecto.", "Truco o trato... o una canción."]},
+    {"id": "sakura", "nombre": "Sakura Miku", "archivo": "sprites/06-sakura.png", "estilo": "primavera", "temporada": "marzo-mayo", "frases": ["Huele a flores y a buena música.", "Respira hondo, que ya florece."]},
+    {"id": "carreras", "nombre": "Miku Pilota", "archivo": "sprites/07-carreras.png", "estilo": "carreras", "temporada": "todo el año", "frases": ["¡Bandera a cuadros! Terminaste la tarea... ¿verdad?", "Vuelta rápida: tómate un vaso de agua."]},
+    {"id": "sirena", "nombre": "Miku Sirena", "archivo": "sprites/08-sirena.png", "estilo": "sirena", "temporada": "vacaciones", "frases": ["Canto bajo el agua, no me preguntes cómo.", "Hidratación nivel océano, por favor."]},
+    {"id": "astronauta", "nombre": "Miku Astronauta", "archivo": "sprites/09-astronauta.png", "estilo": "espacial", "temporada": "todo el año", "frases": ["Houston, tenemos un puerro.", "Desde aquí arriba se ve que no has dormido."]},
+    {"id": "colombiana", "nombre": "Miku Parcera", "archivo": "sprites/10-colombiana.png", "estilo": "Colombia, cumbia y sombrero vueltiao", "temporada": "julio y diciembre", "frases": ["¡Qué más pues, parce! ¿Un tintico?", "Esta cumbia no se baila sola."]}
+  ],
+  "rotacion": {"modo": "aleatorio", "cada_minutos": 30, "respetar_temporada": true}
+}

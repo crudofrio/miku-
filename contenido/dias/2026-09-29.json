@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-09-29",
+  "titulo": "Martes de ensayo",
+  "frases": [
+    "Martes: el día en que el lunes ya no manda y el miércoles todavía no apura. Ventana de oro.",
+    "Si el ensayo sale chueco, bienvenido: los ensayos existen para eso. El show es después.",
+    "Dato Vocaloid: Miku canta en mil canciones a la vez. Tú hoy con una sola playlist ya eres leyenda.",
+    "Las coletas turquesa hicieron mic check. Suena a 'vamos paso a paso, sin drama'. Aprobado.",
+    "Martes santo de cerrar una sola pestaña de verdad. El resto puede esperar en el backstage.",
+    "Curiosidad: el leek (el puerro) es el arma secreta de los fans. Hoy el tuyo es un vaso de agua. Igual de poderoso.",
+    "Ánimo de ensayo: equivocarte bajito cuenta como práctica. Reírte de eso cuenta como talento.",
+    "Si el día se siente a medio volumen, súbelo un click nada más. No hace falta concierto completo.",
+    "El Chromebook ya está en el stand. Tú traes el ritmo; yo traigo el turquesa de relleno.",
+    "Hoy el chiste viene con metrónomo: steady, sin prisa, con snack de premio al final del loop.",
+    "Parce, un estirón entre tareas es calentamiento de vocalista. Dos ya es gira internacional.",
+    "Martes de playlist mental: una canción que te mueva y cero mensajes de 'urgente' falsos. Yo en la consola."
+  ],
+  "por_variante": {
+    "pixel": ["Martes en 8 bits: ensayo del nivel, sin boss fight todavía. Guarda partida y respira."],
+    "chibi": ["¡Martesito de ensayo! Si me tropiezo con el micrófono, que sea en cámara lenta y con gracia."],
+    "samurai": ["El bushido del martes: ensayar el corte una vez bien. La prisa es la verdadera katana rival."],
+    "cyberpunk": ["Neón de ensayo a media potencia. La ciudad escucha el soundcheck; yo brillo lo justo."],
+    "bruja": ["Octubre ya casi toca la puerta. Por ahora solo un hechizo de 'ensayo limpio y sin sustos'."],
+    "sakura": ["Pétalos de martes: caen al ritmo del metrónomo. Florece en el segundo take, no en el primero."],
+    "carreras": ["Vueltas de calentamiento: no es la carrera. Ajusta el volante y disfruta el pit lane."],
+    "sirena": ["Las olas del martes hacen soundcheck. Nada con ellas; afinamos juntas la corriente."],
+    "astronauta": ["Desde la órbita el martes es un ensayo de reentrada. Misión: aterrizar suave, sin drama."],
+    "colombiana": ["¡Qué más, martes! Un tintico, un ensayo corto y vamos afinando el día, parce."]
+  },
+  "fondos": [
+    {
+      "id": "ensayo-martes",
+      "nombre": "Escenario de ensayo",
+      "archivo": "dias/2026-09-29/ensayo-martes.png"
+    }
+  ]
+}

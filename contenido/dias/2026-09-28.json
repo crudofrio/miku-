@@ -1,0 +1,30 @@
+{
+  "fecha": "2026-09-28",
+  "titulo": "Lunes de arranque suave",
+  "frases": [
+    "Lunes: el día en que el despertador cree que es jefe. Spoiler: no lo es.",
+    "Si el café tarda, no es demora: es suspense narrativo. Respira.",
+    "Dato Vocaloid: el banco de voz de Miku se llama Crypton. El tuyo hoy se llama 'cinco minutos más'.",
+    "Las coletas turquesa votaron por arrancar despacio. Empate técnico con la cobija.",
+    "Lunes santo de abrir solo una pestaña. Si abres doce, yo finjo que no vi.",
+    "Curiosidad: 'Hatsune' significa primera sonido. Hoy suena a primera lista de pendientes... y a tintico.",
+    "Ánimo de stand: tú te mueves, yo cuido el paisaje. División laboral de calidad.",
+    "Si el lunes te mira feo, mírale feo tú también. Después hidrátate como campeón.",
+    "El Chromebook ya está despierto. Tú puedes ir a medio ritmo; no hay carrera de relevos.",
+    "Hoy el chiste viene con agenda: corta, blanda y con snack de premio.",
+    "Parce, un estirón cuenta como calentamiento. Dos ya es casi deporte olímpico.",
+    "Lunes de playlist mental: una canción que te levante y cero dramas de grupo. Yo en la banca."
+  ],
+  "por_variante": {
+    "pixel": ["Lunes en 8 bits: carga lenta, sprite listo. Nivel 'arrancar sin drama' activado."],
+    "chibi": ["¡Lunecito chiquito! Si tropiezo con la agenda, que sea en cámara lenta."],
+    "samurai": ["El bushido del lunes: desenvainar solo una tarea. El resto espera en la vaina."],
+    "cyberpunk": ["Neón de lunes a media potencia. La ciudad despierta; yo brillo lo justo para acompañarte."],
+    "bruja": ["Octubre se acerca. Por ahora solo un hechizo suave de 'motivación sin gritos'."],
+    "sakura": ["Pétalos de lunes: caen uno a uno, sin avalancha. Florece a tu ritmo."],
+    "carreras": ["Semáforo en ámbar: no es rojo, no es verde. Arranca cuando el motor esté listo."],
+    "sirena": ["Las olas del lunes empujan suave. Nada con ellas; no pelees la corriente."],
+    "astronauta": ["Desde la órbita el lunes se ve como un amanecer largo. Misión: reentrada controlada."],
+    "colombiana": ["¡Qué más, lunes! Un tintico, una sonrisa torcida y vamos aguantando, parce."]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "nota": "Accesorios que se ponen sobre la cabeza de Miku en modo Live2D. La clave es el id de la variante de mikuverse.json. ancho = veces el ancho de la cara; dx, dy = corrimiento en anchos de cara (dy negativo = más arriba); giro = grados extra; ancla = punto del PNG que va pegado a la cabeza (0..1).",
+  "octubre": "bruja",
+  "accesorios": {
+    "bruja": {
+      "nombre": "Sombrero de bruja",
+      "archivo": "accesorios/bruja.png",
+      "ancho": 3.0,
+      "dx": 0.08,
+      "dy": 0.3,
+      "giro": -6,
+      "ancla": [
+        0.5,
+        0.82
+      ]
+    },
+    "colombiana": {
+      "nombre": "Sombrero vueltiao",
+      "archivo": "accesorios/colombiana.png",
+      "ancho": 3.3,
+      "dx": 0,
+      "dy": 0.0,
+      "giro": 0,
+      "ancla": [
+        0.5,
+        0.72
+      ]
+    }
+  }
+}

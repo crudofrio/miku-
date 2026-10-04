@@ -1,0 +1,25 @@
+# Modelo Live2D y Cubism Core: licencia Piapro / Live2D. NUNCA van al repo.
+live2d/
+cubism/
+**/live2d/
+**/cubism/
+*.moc3
+*.model3.json
+*.physics3.json
+*.motion3.json
+*.cmo3
+*.can3
+live2dcubismcore*.js
+miku_ja.zip
+CubismSdkForWeb*.zip
+
+# Credenciales (por si alguien las deja aquí)
+*.pem
+cursor-api-key
+.env
+
+# Basura de desarrollo
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,20 @@
+{
+  "fecha": "2026-09-25",
+  "titulo": "Viernes de puerro",
+  "frases": [
+    "Viernes y el puerro ya está en modo descanso. Tú también puedes.",
+    "¿Un tintico? Solo si después le das un vaso de agua al cuerpo.",
+    "Hoy el chiste es corto: el que no duerme, no canta.",
+    "Si la tablet está en el stand, tú puedes irte a la cama. Yo vigilo el paisaje.",
+    "Parce, parpadea otra vez. Esa no contó.",
+    "Se me ocurrió una cumbia sobre hidratación y se me fue el coro. Culpa de la siesta.",
+    "El puerro del viernes pide sombra, agua y cero tareas nuevas.",
+    "Si esto es trabajo, ya mereces pausa. Si es ocio, disfrútalo, pero estírate."
+  ],
+  "por_variante": {
+    "colombiana": ["¡Qué más, viernes! La cumbia puede esperar a que tomes agüita."],
+    "pixel": ["Nivel del viernes: descansar. No es un bug, es la meta."],
+    "astronauta": ["Desde la órbita el viernes se ve igual de cansado. A dormir."],
+    "cyberpunk": ["Neón bajito. El viernes no necesita más pestañas abiertas."]
+  }
+}

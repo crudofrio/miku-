@@ -1,0 +1,48 @@
+/* Accesorios de Live2D */
+.accesorio {
+  position: fixed;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  z-index: 3;
+  will-change: transform;
+  user-select: none;
+}
+
+/* Octubre: ambiente Halloween suave (sin destellos) */
+.octubre-capa {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  background:
+    radial-gradient(ellipse at 50% 120%, rgba(255, 128, 20, 0.28), transparent 55%),
+    radial-gradient(ellipse at 50% -20%, rgba(90, 30, 140, 0.35), transparent 60%),
+    radial-gradient(ellipse at center, transparent 55%, rgba(20, 6, 36, 0.55) 100%);
+}
+.octubre-capa span {
+  position: absolute;
+  font-size: clamp(18px, 3.2vw, 34px);
+  opacity: 0.55;
+  top: calc(8% + var(--i) * 13%);
+  left: -10%;
+  animation: octubre-vuelo calc(38s + var(--i) * 7s) linear infinite;
+  animation-delay: calc(var(--i) * -9s);
+  filter: drop-shadow(0 0 6px rgba(160, 80, 255, 0.5));
+}
+.octubre-capa span:nth-child(3) { top: auto; bottom: 6%; animation: octubre-flota 9s ease-in-out infinite; left: 6%; opacity: 0.8; }
+@keyframes octubre-vuelo {
+  0% { transform: translate(0, 0); }
+  25% { transform: translate(30vw, -3vh); }
+  50% { transform: translate(60vw, 2vh); }
+  75% { transform: translate(90vw, -2vh); }
+  100% { transform: translate(125vw, 0); }
+}
+@keyframes octubre-flota {
+  0%, 100% { transform: translateY(0) rotate(-4deg); }
+  50% { transform: translateY(-8px) rotate(4deg); }
+}
+.chip-octubre { background: #ff8a1f; color: #1d0b2e; margin-left: 0.4em; }
+@media (prefers-reduced-motion: reduce) {
+  .octubre-capa span { animation: none; }
+}

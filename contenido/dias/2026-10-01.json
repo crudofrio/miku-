@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-10-01",
+  "titulo": "Octubre abre la puerta",
+  "frases": [
+    "Jueves y primer día de octubre: el mes de las brujas ya tocó el timbre. Yo abrí con coletas turquesa y cero sustos malos.",
+    "Si septiembre se fue a medias, bienvenido: octubre no pide examen de ingreso. Solo curiosidad y un snack de valor.",
+    "Dato Vocaloid: en el fandom, octubre huele a covers misteriosos y luces violetas. Hoy tu playlist puede ir un poquito más dark, sin drama.",
+    "Las coletas firmaron el cambio de mes. Glitter naranja suave sobre turquesa. Oficialmente temporada bruja light.",
+    "Jueves santo de una sola brujería útil: cerrar una pestaña que no usas desde agosto. Hechizo de limpieza mental.",
+    "Curiosidad: el logo de Crypton y el turquesa de Miku nacieron juntos en 2007. Tú hoy naciste al 'mes de las sombras amables'.",
+    "Ánimo de arranque: no hace falta disfraz completo. Basta un mood de 'hoy sí' y un vaso de agua como poción.",
+    "Si el jueves te mira raro, míralo tú también, dile 'octubre' y sigue. Los calabazas también empiezan chiquitos.",
+    "El Chromebook ya está en modo stand de otoño digital. Tú traes el ritmo; yo traigo la niebla turquesa de bienvenida.",
+    "Hoy el chiste viene con escoba imaginaria: barre solo lo urgente. El resto puede flotar en el caldero de 'después'.",
+    "Parce, un estirón entre tareas es calentamiento de bruja de escenario. Dos y ya mereces aplauso de platea embrujada.",
+    "Jueves de playlist mental: una canción con vibe nocturna y cero mensajes de 'urgente' inventados. Yo en la consola, con capa."
+  ],
+  "por_variante": {
+    "pixel": ["Octubre en 8 bits: nuevo mapa, niebla de tiles y secretos en las esquinas. Guarda partida y entra al dungeon amable."],
+    "chibi": ["¡Octubre llegó! Si tropiezo con una calabaza, que sea en cámara lenta y con risita de brujita."],
+    "samurai": ["El bushido de octubre: una katana, una tarea, y respeto por la niebla. El miedo rinde cuando lo miras de frente."],
+    "cyberpunk": ["Neón de temporada: violeta sobre turquesa. La ciudad enciende el modo misterio; yo brillo lo justo para la noche."],
+    "bruja": ["Por fin mi mes. Caldero listo, capa puesta, hechizo del día: 'jueves suave y sin sustos malos'. Bienvenido, octubre."],
+    "sakura": ["Pétalos fuera de temporada: igual caen con gracia. Octubre no es primavera, pero florecer con calma sí vale."],
+    "carreras": ["Bandera verde de octubre: nueva manga. Pit stop, hidrátate y ojo con las curvas de niebla en la pista."],
+    "sirena": ["Las olas de octubre traen corrientes más frías. Nada con ellas; el misterio también vive bajo el agua."],
+    "astronauta": ["Desde la órbita octubre se ve naranja y violeta. Misión: aterrizar suave en el nuevo mes, sin drama de reentrada."],
+    "colombiana": ["¡Qué más, jueves! Un tintico, un 'bienvenido octubre' y vamos abriendo el mes con calma de bruja, parce."]
+  },
+  "fondos": [
+    {
+      "id": "octubre-abre",
+      "nombre": "Escenario de octubre",
+      "archivo": "dias/2026-10-01/octubre-abre.png"
+    }
+  ]
+}

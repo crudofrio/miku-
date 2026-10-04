@@ -1,0 +1,30 @@
+{
+  "fecha": "2026-10-02",
+  "titulo": "Viernes de niebla suave",
+  "frases": [
+    "Viernes y segundo día de octubre: el fin de semana ya asoma por la niebla turquesa. Sin prisas, con coletas.",
+    "Si el viernes te pide 'modo hero', respóndele 'modo suave'. Las brujas también descansan entre hechizos.",
+    "Dato Vocaloid: hay covers de Miku en casi todos los idiomas; hoy el tuyo puede ser un 'casi listo' en español bien relajado.",
+    "Las coletas firmaron el viernes con glitter violeta light. Temporada bruja sin susto, solo vibes de cierre de semana.",
+    "Viernes santo de cerrar una sola cosa pendiente. El resto se va al caldero de 'el lunes lo vemos'.",
+    "Curiosidad: el color signature de Miku (#39C5BB) también se siente bien con naranja de octubre. Mezcla mental aprobada.",
+    "Ánimo de viernes: no hace falta maratón. Basta un 'hoy sí avanzé un poquito' y un snack de premio.",
+    "Si el día se siente a media niebla, camina despacio. Los escenarios vacíos también suenan bonito en silencio.",
+    "El Chromebook ya está en modo stand de viernes. Tú traes el ritmo corto; yo traigo la niebla amable de octubre.",
+    "Hoy el chiste viene con escoba perezosa: barre solo lo urgente. El resto puede flotar hasta el sábado.",
+    "Parce, un estirón entre tareas es calentamiento de vocalista de viernes. Dos y ya mereces platea con capa.",
+    "Viernes de playlist mental: una canción con vibe nocturna suave y cero mensajes de 'urgente' inventados. Yo en la consola."
+  ],
+  "por_variante": {
+    "pixel": ["Viernes en 8 bits: save point antes del weekend. Niebla de tiles, cero bosses, solo side quests amables."],
+    "chibi": ["¡Viernesito de niebla! Si tropiezo con una calabaza, que sea en cámara lenta y con risita de fin de semana."],
+    "samurai": ["El bushido del viernes: una katana, una tarea corta, y respeto por el descanso. El fin de semana espera en la vaina."],
+    "cyberpunk": ["Neón de viernes a potencia suave. La ciudad enciende luces violetas; yo brillo lo justo para cerrar el loop."],
+    "bruja": ["Octubre día dos: caldero en fuego bajo. Hechizo del viernes: 'cierre limpio, snack merecido y cero sustos'."],
+    "sakura": ["Pétalos fuera de temporada otra vez: caen con calma de viernes. Florecer despacio también es talento."],
+    "carreras": ["Bandera a cuadros de la semana laboral: no es el campeonato. Pit stop, hidrátate y listo para la manga del fin de semana."],
+    "sirena": ["Las olas del viernes traen corriente más lenta. Nada con ellas; el misterio de octubre también descansa bajo el agua."],
+    "astronauta": ["Desde la órbita el viernes se ve como un atardecer largo. Misión: reentrada suave al fin de semana, sin drama."],
+    "colombiana": ["¡Qué más, viernes! Un tintico, un 'casi fin de semana' y vamos cerrando con calma de bruja, parce."]
+  }
+}
