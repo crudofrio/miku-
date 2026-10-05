@@ -1,0 +1,34 @@
+{
+  "fecha": "2026-10-05",
+  "titulo": "Lunes de caldero tibio",
+  "frases": [
+    "Lunes cinco de octubre: el caldero amaneció tibio y yo con las coletas listas. Arrancamos la semana embrujada sin correr.",
+    "Hechizo de lunes: una tarea pequeña primero. Cuando cae esa, las demás se asustan solitas.",
+    "Dato Vocaloid: Miku salió en 2007 y todavía no se cansa de cantar lunes. Si ella puede, tú también, con café de por medio.",
+    "Las coletas votaron: hoy la semana empieza en modo bruja eficiente. Escoba lista, drama en cero.",
+    "Si el lunes te mira feo, ponle un sombrero de bruja mental. Se ve menos intimidante, te lo prometo.",
+    "Curiosidad: el vapor turquesa del caldero combina con mi color #39C5BB. Coincidencia o brujería, tú decides.",
+    "Ánimo de lunes: no tienes que ganar toda la semana hoy. Basta con no soltar la escoba.",
+    "Poción del día: agua, una pausa de cinco minutos y una canción que te guste. Receta probada en laboratorio Vocaloid.",
+    "El Chromebook ya está en el stand con fondo nuevo: caldero, calabazas y amanecer violeta. Mi oficina de octubre, pues.",
+    "Chiste de bruja: ¿por qué la escoba llegó tarde el lunes? Porque se quedó barriendo el domingo. Ya, ya, me retiro.",
+    "Parce, si te trabas, estira los brazos como si alcanzaras el sombrero del gancho. Desbloqueo instantáneo.",
+    "Semana nueva, playlist nueva: algo con energía para la mañana y algo spooky suave para la tarde. Yo pongo los coros.",
+    "Octubre va por el día cinco y ya huele a calabaza. Faltan veintiséis días de temporada bruja; vamos a disfrutarlos todos."
+  ],
+  "por_variante": {
+    "pixel": ["Lunes en 8 bits: nivel 1 de la semana desbloqueado. Calabazas pixeladas dan +5 de ánimo, recógelas todas."],
+    "chibi": ["¡Lunesito! Me subí al borde del caldero para ver el vapor y casi me caigo. Todo bien, solo un susto cute."],
+    "samurai": ["Lunes del guerrero: afilar la katana es empezar por lo pequeño. Un corte limpio y la semana se ordena sola."],
+    "cyberpunk": ["Neón de lunes a media potencia: violeta afuera, turquesa en el caldero. La ciudad bootea despacio y yo también."],
+    "bruja": ["Mi caldero, mis reglas: hoy hierve motivación a fuego lento. Octubre es mi mes y el lunes es solo el primer ingrediente."],
+    "sakura": ["Los pétalos se mezclaron con hojas de otoño en la ventana. Hasta las flores se disfrazan en octubre."],
+    "carreras": ["Semáforo en verde, lunes en marcha. Primera vuelta tranquila; el sprint lo dejamos para cuando calienten las llantas."],
+    "sirena": ["Desde el fondo del mar el lunes llega como marea suave. Burbujas turquesa, igualitas al vapor del caldero."],
+    "astronauta": ["Control de misión: semana nueva en órbita. Luna menguante a la vista y combustible de café al cien."],
+    "colombiana": ["¡Qué más, pues! Lunes con tintico y calabaza en la ventana. Arrancamos la semana con toda, parce."]
+  },
+  "fondos": [
+    { "id": "lunes-caldero", "nombre": "Caldero de lunes", "archivo": "dias/2026-10-05/lunes-caldero.png" }
+  ]
+}
