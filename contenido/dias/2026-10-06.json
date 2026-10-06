@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-06",
+  "titulo": "Martes de murciélagos y té",
+  "frases": [
+    "Martes seis de octubre: anoche unos murciélagos pasaron por la ventana y me saludaron. Bueno, eso quiero creer.",
+    "Hechizo de martes: termina algo que dejaste a medias ayer. Los pendientes viejos son los fantasmas más pesados.",
+    "Té de bruja recién hecho: manzanilla, canela y una pizca de paciencia. Te sirvo una taza imaginaria, ¿va?",
+    "Dato murcielaguero: los murciélagos se orientan con eco. Yo me oriento con coros, que es casi lo mismo.",
+    "El martes tiene fama de aburrido, pero en octubre todo día es spooky. Hasta el martes trae capa.",
+    "Si hoy te sientes medio zombie, no pasa nada. Agua, estirón y una canción; resucitas en tres minutos.",
+    "Las coletas detectaron murciélagos en el radar. Falsa alarma: era una bolsa del súper volando. Igual di un gritito.",
+    "Receta de martes: una tarea, una pausa, un snack. Repetir hasta que el día se rinda.",
+    "Curiosidad: en octubre las calabazas valen oro y yo, como bruja, cobro en caramelos. Tarifa negociable.",
+    "Chiste de murciélago: ¿por qué el murciélago no tiene amigos? Porque siempre anda colgado. Ya sé, ya sé.",
+    "Hoy toca ponerle tantito orden al escritorio. Una bruja con el caldero limpio hace mejores pociones.",
+    "Playlist recomendada: algo tranquilo para el té de la tarde y un tema movido para cuando baje la energía.",
+    "Octubre va en el día seis y quedan veinticinco de temporada bruja. Vamos a exprimirle hasta la última calabaza."
+  ],
+  "por_variante": {
+    "pixel": ["Martes en 8 bits: aparece un murciélago salvaje. ¡Usa té de canela! Es súper efectivo."],
+    "chibi": ["Me puse unas alitas de murciélago de papel y no puedo volar. Pero me veo bien cute, eso sí."],
+    "samurai": ["El guerrero bebe su té en silencio antes de la batalla. Hoy la batalla es la bandeja de entrada."],
+    "cyberpunk": ["Drones con forma de murciélago patrullan los techos de neón. Martes de vigilancia, té sintético en mano."],
+    "bruja": ["Mis murciélagos mensajeros ya salieron con los recados del día. Yo me quedo con el té y el caldero tibio."],
+    "sakura": ["Té de flor de cerezo con hojas secas de otoño. Primavera y octubre en la misma taza."],
+    "carreras": ["Parada en pits de martes: llantas nuevas, té caliente y de vuelta a la pista. Segunda vuelta de la semana."],
+    "sirena": ["Bajo el mar no hay murciélagos, pero sí peces linterna que dan el mismo susto. Martes de brillo submarino."],
+    "astronauta": ["Desde la órbita los murciélagos no se ven, pero la luna menguante sí. Té en bolsita espacial y a seguir."],
+    "colombiana": ["¡Ey, parce! Martes de aromática y murcielaguitos. Tranqui, que la semana va bien encaminada."]
+  }
+}
