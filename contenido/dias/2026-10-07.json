@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-07",
+  "titulo": "Miércoles de telarañas",
+  "frases": [
+    "Miércoles siete de octubre: ya vamos a mitad de semana. Hasta las arañas se toman un respiro hoy.",
+    "Encontré una telaraña en la esquina del cuarto y decidí no quitarla. Es decoración de temporada, ¿ok?",
+    "Hechizo de miércoles: escribe tres cosas que ya lograste esta semana. Spoiler: son más de las que crees.",
+    "Dato arácnido: la seda de araña es más fuerte que el acero del mismo grosor. Así de fuerte es tu constancia.",
+    "Mitad de semana, mitad de camino. Si el lunes fue subida, hoy ya se ve la bajadita hacia el viernes.",
+    "Chiste de araña: ¿qué hace una araña en internet? Pues navegar por la web. Ya, no me juzgues.",
+    "Las coletas se me enredaron como telaraña esta mañana. Tardé diez minutos en desenredarlas, pero quedaron fabulosas.",
+    "Reto chiquito de hoy: toma agua antes del café. Las brujas hidratadas lanzan mejores conjuros.",
+    "Si algo se te enredó hoy, como un pendiente o un pensamiento, jálalo de una puntita y despacito. Así se desenreda.",
+    "Pregunta seria de octubre: ¿disfraz cute o disfraz que dé miedo? Yo todavía no decido y ya voy tarde.",
+    "Playlist de miércoles: una canción para concentrarte, otra para cantar fuerte y otra para cuando toque descansar.",
+    "Las arañas tejen su red de nuevo todos los días sin quejarse. Hoy aprendemos de ellas, aunque sea tantito.",
+    "Octubre va en el día siete. Quedan veinticuatro días de temporada bruja, así que a tejer recuerdos bonitos."
+  ],
+  "por_variante": {
+    "pixel": ["Nivel 7 de octubre: telarañas bloquean el camino. Usa la escoba de 8 bits y sigue avanzando."],
+    "chibi": ["Hice una telaraña con estambre y me quedé atrapada en ella. Ayuda, pero sin prisa, está calientita."],
+    "samurai": ["El guerrero corta la telaraña con un solo movimiento. Hoy, el enredo es la lista de pendientes."],
+    "cyberpunk": ["La red de la ciudad es una telaraña de cables de neón. Miércoles de conexión estable y cero lag."],
+    "bruja": ["Mi araña consejera tejió un mensaje en la ventana: dice «vas bien». Le creo, nunca se equivoca."],
+    "sakura": ["Gotitas de rocío en una telaraña brillan como pétalos de cerezo. Belleza de otoño en miniatura."],
+    "carreras": ["Mitad de carrera semanal: posición sólida, motor estable. Ojo con las curvas cerradas del jueves."],
+    "sirena": ["Las redes de pescador se parecen a telarañas gigantes. Por eso nado lejito, por si las moscas."],
+    "astronauta": ["Desde la estación, las luces de las ciudades forman una telaraña dorada. Miércoles orbital y sin prisa."],
+    "colombiana": ["¡Quiubo, parce! Miércoles de telarañas y tinto. Ya vamos a mitad de semana, ¡qué chimba!"]
+  }
+}
