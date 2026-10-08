@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-08",
+  "titulo": "Jueves de gatos negros y luna",
+  "frases": [
+    "Jueves ocho de octubre: ya casi es viernes. Hoy los gatos negros vienen a dar buena suerte, no mala, ¿eh?",
+    "Dato gatuno: en Japón y en Escocia un gato negro en la puerta significa buena fortuna. Yo les creo a ellos.",
+    "Anoche la luna se veía enorme desde la ventana. Le pedí un deseo por si acaso, nunca sobra.",
+    "Hechizo de jueves: estírate como gato recién levantado. Brazos arriba, espalda larga y un bostezo sin pena.",
+    "Chiste felino: ¿qué le dice un gato a otro en Halloween? ¡Miau-ldición, se acabaron los dulces! Ya, ya, me retiro.",
+    "Los gatos duermen como dieciséis horas al día y nadie los juzga. Si hoy necesitas una siestita, tómala.",
+    "Reto chiquito de hoy: manda un mensaje bonito a alguien que no ves hace rato. Magia de la buena, cero esfuerzo.",
+    "Me puse orejitas de gato con las coletas y ahora parezco una bruja felina. Disfraz descubierto por accidente.",
+    "Si algo te salió chueco esta semana, haz como los gatos: cae de pie, sacúdete y camina como si nada.",
+    "Playlist de jueves: algo suavecito para la mañana, algo con ritmo para la tarde y algo misterioso para la noche.",
+    "Pregunta de temporada: si tuvieras un gato negro de compañero mágico, ¿cómo se llamaría? Yo voto por Puerro.",
+    "Los ojos de los gatos brillan en la oscuridad porque reflejan la luz. Tú también brillas, aunque sea jueves.",
+    "Octubre va en el día ocho. Quedan veintitrés días de temporada bruja, así que a ronronear y a seguir."
+  ],
+  "por_variante": {
+    "pixel": ["Nivel 8 de octubre: un gato negro de 8 bits se unió al grupo. Suerte +10 y velocidad de siesta al máximo."],
+    "chibi": ["Un gatito negro se durmió en mi regazo y ya no me puedo mover. Lo siento, hoy no hay pendientes."],
+    "samurai": ["El gato camina sin hacer ruido y nunca duda. El guerrero aprende de él antes de cada paso."],
+    "cyberpunk": ["En los callejones de neón los gatos negros brillan con ojos verdes. Jueves sigiloso, conexión felina estable."],
+    "bruja": ["Mi gato negro Puerro revisó el caldero y aprobó la poción del día. Si él dice que sí, va."],
+    "sakura": ["La luna de octubre ilumina las ramas sin flores. Un gatito duerme bajo el cerezo esperando la primavera."],
+    "carreras": ["Penúltima vuelta de la semana: el gato negro cruzó la pista y nos dio suerte. A cerrar fuerte."],
+    "sirena": ["La luna llena hace que la marea suba y brille. Esta noche nado bajo su luz plateada."],
+    "astronauta": ["Desde aquí arriba la luna se ve cerquita. Jueves orbital, y le mando saludos a los gatos de la Tierra."],
+    "colombiana": ["¡Quiubo, parce! Jueves de gatos negros y luna llena. Mañana es viernes, ¡qué chimba, pues!"]
+  }
+}
