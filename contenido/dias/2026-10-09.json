@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-10-09",
+  "titulo": "Viernes de calabazas brillantes",
+  "frases": [
+    "¡Viernes nueve de octubre! Ya llegamos al final de la semana, y las calabazas lo saben: hoy brillan más que nunca.",
+    "Estrené fondo nuevo: un huerto de calabazas bajo la luna llena. Ponlo y me cuentas si no da ganas de pasear de noche.",
+    "Dato calabacero: las primeras jack-o'-lanterns se tallaban en nabos en Irlanda. Las calabazas llegaron después y ganaron por goleada.",
+    "Hechizo de viernes: cierra una pestaña, una tarea y un pendiente. Tres cosas menos y el fin de semana pesa la mitad.",
+    "Chiste de temporada: ¿por qué la calabaza no se pelea con nadie? Porque tiene la cabeza hueca y el corazón brillante. Ok, ya me voy.",
+    "Si esta semana estuvo pesada, date crédito: llegaste al viernes, y eso ya cuenta como victoria.",
+    "Reto chiquito de hoy: come algo rico sin culpa. Un dulce, un pan, lo que se te antoje. Es viernes, se vale.",
+    "Las luciérnagas de mi fondo nuevo son color verde agua, como mis coletas. Pura coincidencia, claro que sí.",
+    "Plan de viernes en la noche: algo de música, algo de botana y cero alarmas para mañana. Suena a buena poción.",
+    "Pregunta de temporada: si tallaras una calabaza hoy, ¿qué cara le pondrías? Yo le haría una sonrisa enorme de nota musical.",
+    "Mi escoba también quiere fin de semana. Hoy la dejé recargada en la cerca para que descanse.",
+    "Respira hondo tres veces, como si soplaras la velita de una calabaza. Ya está, modo viernes activado.",
+    "Octubre va en el día nueve y faltan veintidós para Halloween. La temporada bruja apenas se está calentando."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Nivel 9 de octubre: encontraste un huerto de calabazas de 8 bits. Cada una que tocas da +1 vida y +1 ánimo de viernes."
+    ],
+    "chibi": [
+      "Me escondí detrás de una calabaza más grande que yo. Si no me encuentras, búscame por las coletitas."
+    ],
+    "samurai": [
+      "Al terminar la semana, el guerrero limpia su espada y descansa. La calabaza encendida vigila el dojo."
+    ],
+    "cyberpunk": [
+      "Calabazas con LEDs verde neón en cada esquina de la ciudad. Viernes en la noche, el sistema entra en modo fiesta."
+    ],
+    "bruja": [
+      "Recogí la calabaza más redonda del huerto para la poción del fin de semana. Puerro ya la está olfateando."
+    ],
+    "sakura": [
+      "Bajo el cerezo dormido puse una calabacita con una vela. Ilumina las ramas hasta que vuelvan las flores."
+    ],
+    "carreras": [
+      "¡Bandera a cuadros de la semana! Cruzamos la meta del viernes con una calabaza como trofeo."
+    ],
+    "sirena": [
+      "Hoy una calabaza flotó hasta mi arrecife y la convertí en farol. Los peces vienen a verla brillar."
+    ],
+    "astronauta": [
+      "Desde la órbita, la luna llena parece una calabaza gigante. Viernes espacial, motores en modo descanso."
+    ],
+    "colombiana": [
+      "¡Quiubo, parce! Viernes de calabazas y luna llena. A rumbear el finde, ¡qué chimba, pues!"
+    ]
+  },
+  "fondos": [
+    {
+      "id": "viernes-calabazas",
+      "nombre": "Huerto de calabazas",
+      "archivo": "dias/2026-10-09/viernes-calabazas.png"
+    }
+  ]
+}
