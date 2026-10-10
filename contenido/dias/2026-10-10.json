@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-10",
+  "titulo": "Sábado de mercadito de pociones",
+  "frases": [
+    "¡Sábado diez de octubre! Hoy abrí mi mercadito de pociones. Pasa, pasa, que hay ofertas de ánimo al dos por uno.",
+    "Poción del día: un vaso de agua bien fría. Suena aburrido, pero es la base de todos los hechizos buenos.",
+    "Dato brujil: el gorro puntiagudo de bruja se volvió famoso por las ilustraciones de cuentos. Yo lo uso porque se me ve chido.",
+    "Hechizo de sábado: dormir cinco minutos más sin sentir culpa. Ya está lanzado, no hay devoluciones.",
+    "Chiste de temporada: ¿qué le dijo una poción a otra? ¡Qué burbujeante te ves hoy! Ok, ese estuvo flojito, lo admito.",
+    "Reto chiquito de hoy: ordena un solo cajón. Uno nada más. Luego te premias con algo rico.",
+    "En mi mercadito vendo frascos de risa, polvo de estrellas y una botellita de 'ya mero es Halloween'. ¿Cuál te llevas?",
+    "Si hoy no tienes plan, también se vale. Un sábado tranquilo es la poción más difícil de conseguir.",
+    "Pregunta de temporada: si pudieras preparar una poción mágica, ¿qué haría? Yo haría una que te deje cantar sin desafinar.",
+    "Pon tu canción favorita y bailamos un ratito. Las brujas también necesitan mover el esqueleto.",
+    "Mi caldero está burbujeando en verde agua otra vez. Creo que ya se acostumbró a mi color.",
+    "Respira hondo y suelta los hombros. Ahí va: poción de relajación aplicada directo, sin receta.",
+    "Faltan veintiún días para Halloween. Ya puedes ir pensando tu disfraz, yo todavía dudo entre tres."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Tienda de pociones de 8 bits abierta: poción roja +10 vida, poción verde +10 ánimo de sábado. ¡Compra todo!"
+    ],
+    "chibi": [
+      "Quise cargar un frasco de poción y casi me caigo adentro. Es que soy más chiquita que la botella."
+    ],
+    "samurai": [
+      "El guerrero también descansa. Hoy afilo la espada con calma y preparo té en vez de pociones."
+    ],
+    "cyberpunk": [
+      "Mercado nocturno de la ciudad: pociones en latas con luz neón. Sábado, la red entra en modo libre."
+    ],
+    "bruja": [
+      "Puse mi puesto en el mercadito de brujas con Puerro de ayudante. Ya vendimos tres frascos de risa."
+    ],
+    "sakura": [
+      "Preparé una poción con pétalos secos de cerezo guardados de la primavera. Huele a calma."
+    ],
+    "carreras": [
+      "Sábado de pits: cambio de llantas, tanque lleno y una poción energética para la siguiente vuelta."
+    ],
+    "sirena": [
+      "En el arrecife cambiamos perlas por pociones de burbujas. Hoy me tocó una que brilla en la oscuridad."
+    ],
+    "astronauta": [
+      "Experimento en gravedad cero: las pociones flotan en bolitas. Sábado espacial muy burbujeante."
+    ],
+    "colombiana": [
+      "¡Quiubo, parce! Sábado de mercadito y pociones. Pa' la que sea, ¡qué chimba de día, pues!"
+    ]
+  }
+}
