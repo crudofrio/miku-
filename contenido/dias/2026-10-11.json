@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-11",
+  "titulo": "Domingo de cuentos de fantasmitas",
+  "frases": [
+    "¡Domingo once de octubre! Hoy toca cobijita, chocolatito y cuentos de fantasmitas buena onda.",
+    "Había una vez un fantasmita que le tenía miedo a la oscuridad. Así que se compró una lamparita turquesa. Fin. Cortito pero bonito, ¿no?",
+    "Dato de temporada: la tradición de contar historias de miedo alrededor del fuego es viejísima. Hoy la hacemos versión sofá.",
+    "Plan de domingo: cero prisas. Si alguien te pregunta qué hiciste, dices 'recargar magia' y ya.",
+    "Chiste fantasmal: ¿por qué los fantasmas son malos mintiendo? Porque se les ve a través. Ja, ja, ese sí me gustó.",
+    "Reto chiquito de hoy: llama o escríbele a alguien que extrañas. Los fantasmitas dicen que eso calienta el corazón.",
+    "Mi fantasmita favorito se llama Boo-ritos y solo asusta a los calcetines que se pierden en la lavadora.",
+    "Pregunta de domingo: ¿cuál es el cuento de miedo que más te asustó de chiquito? Yo todavía no veo bien los armarios abiertos.",
+    "Si mañana es lunes, no pienses en eso todavía. El domingo todavía es nuestro, ¿va?",
+    "Pon una canción tranquilita y cierra los ojos un ratito. Yo te cuido de los fantasmas, prometido.",
+    "Hoy le leí un cuento a mi caldero y se quedó dormido. Primera vez que no burbujea en toda la semana.",
+    "Prepara algo calientito: té, café o chocolate. El hechizo dominguero funciona mejor con taza en mano.",
+    "Faltan veinte días para Halloween. Ya casi, ya casi. ¿Ya decidiste tu disfraz?"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Nivel bonus de domingo: fantasmitas de 8 bits que en vez de quitarte vidas te regalan una. ¡Combo x3!"
+    ],
+    "chibi": [
+      "Me tapé con la cobija para leer un cuento de fantasmas y me quedé dormida a la segunda página. Soy muy chiquita para tanta emoción."
+    ],
+    "samurai": [
+      "Bajo la linterna de papel, el viejo maestro cuenta historias de espíritus. El guerrero escucha sin parpadear."
+    ],
+    "cyberpunk": [
+      "Leyenda urbana de la red: un fantasma digital que aparece en las pantallas los domingos para decirte que descanses."
+    ],
+    "bruja": [
+      "Puerro y yo hicimos un fuerte de cobijas y leímos cuentos de fantasmitas con la escoba de lámpara."
+    ],
+    "sakura": [
+      "Debajo del cerezo dormido, un fantasmita guarda pétalos para la próxima primavera. Qué ternura."
+    ],
+    "carreras": [
+      "Domingo sin carrera: hoy cuento historias de la curva fantasma, donde dicen que se escucha un motor que nadie ve."
+    ],
+    "sirena": [
+      "En el barco hundido vive un fantasmita marinero que solo quiere que alguien escuche sus cuentos. Hoy lo visité."
+    ],
+    "astronauta": [
+      "Cuento espacial de domingo: una estrella fugaz que en realidad era un fantasmita dando la vuelta a la Tierra."
+    ],
+    "colombiana": [
+      "¡Quiubo, parce! Domingo de cuentos de espantos, como los de la abuela. ¡Pero tranqui, que hoy solo hay fantasmitas chéveres!"
+    ]
+  }
+}
