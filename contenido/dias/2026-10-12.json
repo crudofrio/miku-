@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-10-12",
+  "titulo": "Lunes de la casita embrujada",
+  "frases": [
+    "¡Lunes doce de octubre! Hoy te invito a mi casita embrujada en la colina. Tranqui, los fantasmas de aquí son puro apapacho.",
+    "Estrené fondo: una casita con ventanas turquesa, calabacitas en el caminito y fantasmitas saliendo por la chimenea. ¿A poco no está bien chula?",
+    "Regla número uno de la casita embrujada: se entra sin prisa y se sale con una sonrisa. Ya lo sabes.",
+    "Chiste de lunes: ¿qué le dijo una casa embrujada a otra? '¡Qué buena vibra tienes... bueno, qué buenos espíritus!'",
+    "Los lunes también tienen su magia. Hoy empezamos la semana con escoba lista y cero estrés, ¿va?",
+    "Mis fantasmitas inquilinos no pagan renta, pero me barren el techo y me cantan en la noche. Trato justo.",
+    "Reto chiquito de hoy: ordena un rinconcito de tu casa. Así hasta los espíritus se sienten a gusto.",
+    "Dato curioso: muchas historias de casas embrujadas empezaron porque las casas viejas crujen con el frío. Yo digo que solo están platicando.",
+    "Si hoy se te hace pesado, imagina que llegas a una casita calientita con chocolate y una cobija esperándote. Aquí te guardo un lugar.",
+    "Toc, toc... ¿quién es? Un fantasmita que solo viene a preguntarte si ya tomaste agüita. ¡Hidrátate!",
+    "Pregunta del día: si tuvieras una casa embrujada, ¿qué fantasma te gustaría de roommate? Yo quiero uno que lave los trastes.",
+    "La escoba de la entrada no es decoración, eh. Es mi transporte para llegar puntual los lunes.",
+    "Faltan diecinueve días para Halloween. La casita ya se está poniendo sus mejores telarañas."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Nueva zona desbloqueada: la Casita Embrujada de 8 bits. Cada ventana turquesa esconde un power-up. ¡A explorar!"
+    ],
+    "chibi": [
+      "La puerta de la casita embrujada es enorme para mí. Tuve que pedirle a un fantasmita que me ayudara a tocar el timbre."
+    ],
+    "samurai": [
+      "En la colina hay una casa donde los espíritus guardan silencio. El guerrero entra, se inclina y les ofrece té."
+    ],
+    "cyberpunk": [
+      "Encontré una casa embrujada en la red: cada ventana es un servidor viejo que todavía brilla. Los fantasmas son puro código nostálgico."
+    ],
+    "bruja": [
+      "Por fin, mi casita en la colina. Puerro ya escogió su ventana favorita y la escoba descansa junto a la puerta. ¡Bienvenido a casa!"
+    ],
+    "sakura": [
+      "Junto a la casita embrujada planté un cerezo pequeñito. En primavera los fantasmitas van a tener pétalos para jugar."
+    ],
+    "carreras": [
+      "Hoy la pista termina en una colina con una casita embrujada. Meta especial: estacionarse sin despertar a los fantasmas."
+    ],
+    "sirena": [
+      "Bajo el mar también hay una casita embrujada: un faro hundido con ventanas turquesa donde los pececitos fantasma cuentan chismes."
+    ],
+    "astronauta": [
+      "Desde la órbita juraría que vi una casita en una colina con ventanas turquesa brillando. ¿Será una base de fantasmas espaciales?"
+    ],
+    "colombiana": [
+      "¡Ay, parce, qué casita tan bacana! Embrujada, sí, pero con espantos tan queridos que hasta le ofrecen a uno tintico."
+    ]
+  },
+  "fondos": [
+    {
+      "id": "lunes-casita-embrujada",
+      "nombre": "Casita embrujada en la colina",
+      "archivo": "dias/2026-10-12/lunes-casita-embrujada.png"
+    }
+  ]
+}
