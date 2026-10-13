@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-13",
+  "titulo": "Martes de la biblioteca embrujada",
+  "frases": [
+    "¡Martes trece de octubre! Hoy abrí la biblioteca embrujada. Los libros susurran, pero solo chismes bonitos, nada de sustos feos.",
+    "Regla de la biblioteca: se lee en voz bajita… excepto cuando el hechizo pide gritar «¡abracadabra!» con gusto.",
+    "Chiste de martes: ¿qué lee un fantasma en la biblioteca? ¡Historias de miedo… de no terminar su tarea!",
+    "Saqué un tomo de pociones para madrugar. Página uno: café. Página dos: más café. Página tres: ya te despertaste.",
+    "Los gatos negros son los bibliotecarios oficiales. Si te miran feo es porque dejaste el libro abierto boca abajo. ¿Va?",
+    "Reto chiquito de hoy: lee tres páginas de lo que sea. Un cómic cuenta. Un meme largo también… bueno, casi.",
+    "Dato curioso: en varias bibliotecas viejas hay «libros encadenados». Yo digo que solo no querían que se escaparan los spoilers.",
+    "Si hoy se te traba el cerebro, imagina que estás en un sillón entre estantes llenos de velitas. Aquí te guardo tu lugar.",
+    "Toc, toc… es un murciélago repartidor de carnets. ¿Ya renovaste el tuyo? Falta poco para Halloween.",
+    "Pregunta del día: ¿qué libro mágico te gustaría encontrar? Yo quiero uno que lave los trastes mientras leo.",
+    "Entre hechizos y notas al margen, encontré un recordatorio: hidrátate. Hasta los grimorios necesitan agüita.",
+    "Faltan dieciocho días para Halloween. La biblioteca ya pidió más calabazas… de adorno, no de lectura.",
+    "Cierre de estantería: si hoy aprendes una cosita nueva, aunque sea chiquita, ya ganaste el martes. ¡Orale!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Nueva zona: Biblioteca Embrujada 8 bits. Cada estantería esconde un power-up de sabiduría. ¡A lootear páginas!"
+    ],
+    "chibi": [
+      "Los libros son más altos que yo. Pedí una escalerita a un gato negro y ahora soy la bibliotecaria más chiquita del pueblo."
+    ],
+    "samurai": [
+      "En la biblioteca embrujada el silencio es un dojo. El guerrero lee con la misma disciplina con la que afila la katana."
+    ],
+    "cyberpunk": [
+      "Hackeé una biblioteca fantasma en la red: cada libro es un archivo .hex que brilla en morado. Los spoilers vienen con firewall."
+    ],
+    "bruja": [
+      "Mi sección favorita: hechizos de café y conjuros para no perder el marcador. Puerro ya se subió a un diccionario."
+    ],
+    "sakura": [
+      "Entre los tomos viejos dejé un pétalo de cerezo como marcador. Cuando florezca, la biblioteca va a oler a primavera."
+    ],
+    "carreras": [
+      "Hoy la pista es un pasillo de estanterías. Meta especial: llegar al final sin tumbar ni un grimorio. ¡Suave al volante!"
+    ],
+    "sirena": [
+      "Bajo el mar hay una biblioteca de conchas: los libros son pergaminos impermeables y los pececitos fantasma pasan las páginas."
+    ],
+    "astronauta": [
+      "Desde la órbita descargué una biblioteca embrujada en cero gravedad. Los libros flotan… y a veces se escapan por la escotilla."
+    ],
+    "colombiana": [
+      "¡Ay, parce, qué biblioteca tan bacana! Embrujada, sí, pero con tintico, chisme suave y un gato negro de mesero."
+    ]
+  }
+}
