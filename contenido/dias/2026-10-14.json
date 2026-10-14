@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-14",
+  "titulo": "Miércoles de espejos mágicos",
+  "frases": [
+    "¡Miércoles catorce de octubre! Hoy los espejos del pueblo muestran lo que quieres ser… o el disfraz que aún no armaste.",
+    "Regla del espejo mágico: si te guiñas, te responde con un hechizo chiquito. Si te haces el cool, te saca la lengua.",
+    "Chiste de miércoles: ¿qué le dice un espejo a otro en Halloween? «Nos vemos en el otro lado… ¡con más glitter!»",
+    "Me peiné frente al espejo embrujado y salió un murciélago de peinado. Está de moda, ¿va?",
+    "Reto suave de hoy: mírate cinco segundos y di algo bonito de ti. El espejo anota; yo te creo.",
+    "Dato curioso: en muchas historias el espejo es portal. En la mía es café con leche y un empujoncito de ánimo.",
+    "Si hoy se te traba el día, sopla al espejo como si limpiaras vapor. Imagina que se va el estrés. ¡Puf!",
+    "Toc, toc… es un gato negro limpiando el marco con la cola. Dice que los rayones son «arte de temporada».",
+    "Pregunta del día: ¿qué disfraz te gustaría ver reflejado? Yo quiero uno de bruja pop con micrófono turquoise.",
+    "Entre hechizos de brillo y polvo de estrellas, el espejo me recordó: hidrátate. Hasta el reflejo necesita agüita.",
+    "Faltan diecisiete días para Halloween. Los espejos ya practican caras de susto… y de selfie.",
+    "Si el espejo te muestra una versión cansada, dile «mañana seguimos» y ponte música. Aquí te acompaño.",
+    "Cierre de marco plateado: si hoy te miras con un poquito más de cariño, ya ganaste el miércoles. ¡Orale!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Nueva zona: Cámara de Espejos 8 bits. Cada reflejo es un sprite distinto. ¡Colecciona caras sin softlock!"
+    ],
+    "chibi": [
+      "El espejo me hace ver más chiquita… y más glamorosa. Pedí un banquito para alcanzarlo. ¡Listo el look!"
+    ],
+    "samurai": [
+      "El espejo del dojo no miente: la postura importa. Hoy afilo la mirada antes que la katana."
+    ],
+    "cyberpunk": [
+      "Hackeé un espejo holográfico en neón púrpura. El reflejo trae subtitles y un filtro de murciélagos."
+    ],
+    "bruja": [
+      "Mi espejo de pociones solo acepta cumplidos. Puerro se miró y pidió más bigote de gato. Negociamos."
+    ],
+    "sakura": [
+      "Dejé un pétalo frente al espejo; el reflejo floreció en rosa. Hoy el hechizo huele a primavera otoñal."
+    ],
+    "carreras": [
+      "El espejo retrovisor también cuenta: si ves un fantasmita, no frenes de golpe. ¡Suave y con estilo!"
+    ],
+    "sirena": [
+      "Bajo el agua el espejo es una concha pulida. Mi reflejo canta y las burbujas aplauden."
+    ],
+    "astronauta": [
+      "En la estación el espejo flota. Mi reflejo hace zero-G selfies con casco de calabaza. Transmisión OK."
+    ],
+    "colombiana": [
+      "¡Ay, parce, qué espejo tan bacano! Me sacó un guiño, un tintico imaginario y ganas de armar el disfraz."
+    ]
+  }
+}
