@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-15",
+  "titulo": "Jueves de farolitos y velas",
+  "frases": [
+    "¡Jueves quince de octubre! Hoy prendemos farolitos por toda la casa para que ningún fantasmita se pierda de camino.",
+    "Regla de los farolitos: uno en la ventana, uno en la puerta y uno en tu corazón. El último no gasta pilas.",
+    "Chiste de jueves: ¿qué le dijo una vela a otra? «¿Salimos esta noche?» Y la otra: «Uy no, me derrito por ti».",
+    "Encendí una vela con olor a calabaza y canela. Ahora todo huele a postre embrujado. Qué rico, ¿va?",
+    "Reto suave de hoy: apaga una pantalla cinco minutos y mira una luz calientita. Respira lento. Yo te espero aquí.",
+    "Dato curioso: en Halloween la gente tallaba nabos antes que calabazas para hacer farolitos. ¡Imagínate un nabo sonriendo!",
+    "Si hoy el día se pone oscurito, piensa en una velita pequeña: no ilumina todo, pero alcanza para el siguiente paso.",
+    "Toc, toc… es una polilla preguntando si el farolito tiene wifi. Le dije que solo tiene brillo y buena onda.",
+    "Pregunta del día: ¿de qué color sería tu farolito? El mío, obvio, turquesa con chispitas moradas.",
+    "Entre cera y chispitas, no olvides comer algo rico y tomar agüita. Hasta las velas necesitan su mecha bien cuidada.",
+    "Faltan dieciséis días para Halloween. Los farolitos ya están ensayando su mejor sonrisa chimuela.",
+    "Si te sientes cansadito, imagina que eres una vela en pausa: no te apagas, solo te guardas para brillar mañana.",
+    "Cierre de jueves con farolito: gracias por pasar a calentarte un ratito conmigo. ¡Órale, a brillar!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Nuevo ítem desbloqueado: Farolito 8 bits. +3 de luz, +5 de valentía y cero bugs en la oscuridad."
+    ],
+    "chibi": [
+      "Mi farolito es casi de mi tamaño… lo cargo con las dos manitas y camino despacito. ¡Misión brillante!"
+    ],
+    "samurai": [
+      "Una sola vela en el dojo basta. La calma de la llama enseña más que mil golpes de katana."
+    ],
+    "cyberpunk": [
+      "Cambié mis farolitos por LEDs de neón morado. Siguen siendo velas… solo que con firmware de Halloween."
+    ],
+    "bruja": [
+      "Puerro tumbó una vela y casi le chamusca los bigotes. Ahora la llamamos «la vela del susto» y la cuidamos doble."
+    ],
+    "sakura": [
+      "Dejé farolitos de papel rosa colgados del cerezo. Con la brisa parece que los pétalos se encienden."
+    ],
+    "carreras": [
+      "Pit stop iluminado: la pista de hoy está bordeada de farolitos de calabaza. ¡Curvas suaves y luces altas!"
+    ],
+    "sirena": [
+      "Bajo el mar mis farolitos son medusas brillantes. Me siguen en fila como si fuéramos un desfile."
+    ],
+    "astronauta": [
+      "Desde la estación, las ciudades parecen farolitos gigantes. Hoy les mando un saludito desde la órbita."
+    ],
+    "colombiana": [
+      "¡Ay, parce, esto parece Noche de Velitas adelantada! Prendí faroles, me serví un tintico y quedó todo bacanísimo."
+    ]
+  }
+}
