@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-16",
+  "titulo": "Viernes de probarse disfraces",
+  "frases": [
+    "¡Viernes dieciséis de octubre! Hoy abrimos el baúl de los disfraces y nos probamos todo, aunque nos quede chistoso.",
+    "Regla del probador embrujado: si el disfraz te da risa al verte en el espejo, ese es el bueno.",
+    "Chiste de viernes: ¿por qué el fantasma no encontraba disfraz? Porque todo le quedaba transparente.",
+    "Me probé unas alas de murciélago y ahora no puedo pasar por la puerta sin agacharme. Vale la pena, ¿va?",
+    "Reto suave de hoy: ponte algo con un color que casi nunca usas. Un calcetín cuenta. Yo me pongo un moñito naranja.",
+    "Dato curioso: disfrazarse en Halloween empezó como una forma de pasar desapercibido entre los espíritus. Camuflaje nivel fantasmita.",
+    "No hace falta gastar un dineral: una sábana, dos ojitos de cartulina y mucha actitud hacen un fantasma de lujo.",
+    "Toc, toc… es la escoba preguntando si también le toca disfraz. Le puse un listón morado y ya se siente modelo.",
+    "Pregunta del día: si pudieras disfrazarte de cualquier cosa, ¿qué serías? Yo dudo entre calabaza y nube de tormenta.",
+    "Entre tanto probarse ropa, no olvides comer algo y tomar agüita. Cambiarse diez veces cansa más que una carrera.",
+    "Faltan quince días para Halloween. El baúl ya está temblando de emoción, o tal vez es un gato escondido.",
+    "Si hoy no te sientes tú, recuerda que debajo de cualquier disfraz sigue estando alguien bien chido.",
+    "Cierre de viernes de disfraces: gracias por desfilar conmigo un ratito. ¡A disfrutar el finde, órale!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Abrí el menú de skins: tengo calabaza 8 bits, fantasma pixelado y bruja retro. ¡Elegir es el jefe final!"
+    ],
+    "chibi": [
+      "Me puse un disfraz de calabaza y quedé redondita, redondita. Si me caigo, ruedo hasta la cocina."
+    ],
+    "samurai": [
+      "Un buen guerrero conoce su armadura. Hoy mi armadura es una capa de murciélago, y la porto con honor."
+    ],
+    "cyberpunk": [
+      "Mi disfraz tiene luces que cambian de color con el ritmo. Esqueleto de neón versión 2.0, cargando…"
+    ],
+    "bruja": [
+      "Puerro se negó a ponerse su sombrerito de bruja. Ahora lo está usando como cama. Supongo que eso también cuenta."
+    ],
+    "sakura": [
+      "Mi disfraz es de espíritu del cerezo: corona de pétalos y un velito rosa. Hasta las abejas me saludan."
+    ],
+    "carreras": [
+      "Hoy el equipo de pits vino disfrazado de calabazas. Cambiaron las llantas en tres segundos y sin perder el gorro."
+    ],
+    "sirena": [
+      "Bajo el mar también hay disfraces: un pulpo se vistió de fantasma y una estrella de mar de calabaza. ¡Qué fiesta!"
+    ],
+    "astronauta": [
+      "Le pegué orejitas de gato a mi casco espacial. Control de misión dice que no es reglamentario, pero que se ve adorable."
+    ],
+    "colombiana": [
+      "¡Ay, parce, me disfracé de garabato del carnaval y quedé de lo más bacana! Aquí se baila hasta en Halloween."
+    ]
+  }
+}
