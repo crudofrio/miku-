@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-17",
+  "titulo": "Sábado de galletas embrujadas",
+  "frases": [
+    "¡Sábado diecisiete de octubre! Hoy prendemos el horno embrujado y hacemos galletas con forma de fantasmita.",
+    "Receta secreta de bruja: harina, mantequilla, azúcar… y una pizca de risa. Sin la risa no esponjan, palabra.",
+    "Chiste de sábado: ¿qué le dijo la galleta al horno? ¡Qué calor me das, compa!",
+    "Me salió una galleta de murciélago con un ala más grande que la otra. Le puse nombre: Chueco. Es mi favorita.",
+    "Reto suave de hoy: decora algo, aunque sea un pan tostado con una carita. Yo le hice bigotes de chocolate al mío.",
+    "Dato curioso: en muchos lugares se hornean panes especiales para recordar a los seres queridos en estas fechas. Cocinar también es abrazar.",
+    "Ojo con el horno: las brujas profesionales siempre usan guantes. Las quemaduras no son parte del disfraz.",
+    "Toc, toc… es el gato negro pidiendo una galleta. Le dije que no, que es de chocolate, y se fue ofendidísimo.",
+    "Pregunta del día: ¿galleta de calabaza, de canela o de chispas de chocolate? Yo quiero las tres y no me arrepiento.",
+    "Mientras se hornean, aprovecha para estirarte un ratito y tomar agüita. El horno no necesita que lo vigiles todo el tiempo.",
+    "Faltan catorce días para Halloween. Ya tengo una lata llena de galletas guardadas… bueno, media lata. Bueno, tres galletas.",
+    "Si algo hoy no te sale perfecto, como mi galleta chueca, recuerda que igual sabe rico. Tú también vales aunque no salga todo a la primera.",
+    "Cierre de sábado galletero: gracias por hornear conmigo. ¡Que el finde huela a canela, órale!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Mis galletas salieron cuadraditas, 8 bits perfectos. Cada una recupera un corazón de vida. ¡Power-up dulce!"
+    ],
+    "chibi": [
+      "Hice una galleta más grande que yo. Ahora no sé si me la como o me la pongo de sombrilla."
+    ],
+    "samurai": [
+      "El camino del guerrero exige paciencia: diez minutos en el horno, ni uno menos. Sacarla antes es deshonor."
+    ],
+    "cyberpunk": [
+      "Programé el horno con temporizador neón. Las galletas salieron con glaseado fosforescente. Brillan en la oscuridad, literal."
+    ],
+    "bruja": [
+      "Puerro se comió el glaseado antes de que decorara nada. Dice que fue un hechizo de desaparición. Muy talentoso él."
+    ],
+    "sakura": [
+      "Hice galletitas con forma de flor y un toque de té verde. Combinan con los pétalos que caen en la ventana."
+    ],
+    "carreras": [
+      "Récord de vuelta: saqué las galletas del horno en tiempo de pit stop. Tres segundos y ni una quemada."
+    ],
+    "sirena": [
+      "Bajo el mar no hay horno, pero las estrellas de mar me prestaron su forma para el molde. ¡Galletas marinas!"
+    ],
+    "astronauta": [
+      "En gravedad cero las chispas de chocolate flotan por toda la nave. Control de misión dice que limpie, pero están deliciosas."
+    ],
+    "colombiana": [
+      "¡Uy, parce, hice galletas con un toquecito de panela y quedaron una chimba! Pásele, que hay pa' todos."
+    ]
+  }
+}
