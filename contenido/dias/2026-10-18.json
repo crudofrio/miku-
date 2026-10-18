@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-18",
+  "titulo": "Domingo de clases de escoba voladora",
+  "frases": [
+    "¡Domingo dieciocho de octubre! Hoy saqué la escoba del clóset porque toca clase de vuelo. Bueno, de vuelo bajito.",
+    "Primera lección de escoba: agarrarla del lado correcto. Yo la tuve al revés diez minutos y me preguntaba por qué no despegaba.",
+    "Chiste de domingo: ¿por qué la bruja no usa aspiradora? Porque se le enreda el cable cuando vuela, ¿neta no sabías?",
+    "Hoy me elevé como medio metro y aterricé en el sillón. Lo cuento como un vuelo exitoso, ¿eh?",
+    "Reto suave de hoy: barre o acomoda un rinconcito de tu casa. Si la escoba no vuela, al menos que deje todo bonito.",
+    "Dato curioso: la imagen de la bruja en escoba aparece en ilustraciones europeas de hace más de quinientos años. ¡Es un look clásico, viejo!",
+    "Regla de seguridad de bruja: nada de volar cerca de los cables de luz ni de las ventanas. Los vuelos domingueros se hacen con calma.",
+    "El gato negro se subió a la escoba conmigo y ahora él cree que es el piloto. Le dejé el volante… digo, el palo.",
+    "Pregunta del día: si tuvieras una escoba voladora, ¿a dónde irías primero? Yo me iría a ver el atardecer desde arriba de las nubes.",
+    "Entre vuelo y vuelo, tómate tu agüita y estira la espalda. Las brujas también se cansan de tanto equilibrio.",
+    "Faltan trece días para Halloween. Ya casi domino el aterrizaje… casi. El sillón ya me conoce por mi nombre.",
+    "Si hoy te toca descansar, también está bien. Hasta las mejores escobas pasan el domingo recargadas en la pared.",
+    "Cierre de domingo volador: gracias por acompañarme en clase. ¡Que la semana arranque ligerita, como pluma, órale!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Mi escoba es un sprite de 16 bits y solo vuela en línea recta. Para dar vuelta tengo que reiniciar el nivel."
+    ],
+    "chibi": [
+      "La escoba es tres veces más grande que yo. No vuelo, más bien la escoba me lleva de paseo."
+    ],
+    "samurai": [
+      "El guerrero no teme a las alturas; las respeta. Monto la escoba con postura firme y mirada al horizonte."
+    ],
+    "cyberpunk": [
+      "Le instalé propulsores neón a mi escoba. Ahora deja una estela rosa por toda la ciudad. Multa de tránsito incluida."
+    ],
+    "bruja": [
+      "Puerro insiste en sentarse adelante en la escoba. Dice que es copiloto certificado. Nadie le dio ese certificado."
+    ],
+    "sakura": [
+      "Volé bajito entre los árboles de cerezo y los pétalos se me pegaron al pelo. Aterricé hecha un ramo de flores."
+    ],
+    "carreras": [
+      "Escoba de carreras: aerodinámica, ligera y con cerdas de fibra de carbono. ¡Pole position en la primera vuelta!"
+    ],
+    "sirena": [
+      "Bajo el mar no hay escobas, así que pedí prestado un caballito de mar. Vuela… bueno, nada bastante rápido."
+    ],
+    "astronauta": [
+      "En gravedad cero cualquier escoba vuela. Lo difícil es convencerla de que se quede quieta en la nave."
+    ],
+    "colombiana": [
+      "¡Ay, parce, me monté en la escoba y casi me estrello con el palo de mango! Pero quedó un vuelo bien bacano."
+    ]
+  }
+}
