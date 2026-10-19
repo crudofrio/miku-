@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-19",
+  "titulo": "Lunes de lechuzas mensajeras",
+  "frases": [
+    "¡Lunes diecinueve de octubre! Hoy abrimos la oficina de correo embrujado y las lechuzas ya están haciendo fila con sus cartitas.",
+    "Primera carta del día: alguien me escribió nomás para decirme que tenga bonito lunes. ¡Qué detallazo, neta!",
+    "Chiste de lunes: ¿cómo se despide una lechuza cartera? «¡Hasta búho-nto!»... ya sé, ya sé, pero es lunes.",
+    "Las lechuzas giran la cabeza casi tres cuartos de vuelta. Yo apenas puedo voltear a ver si dejé la estufa apagada.",
+    "Reto suave de hoy: mándale un mensajito bonito a alguien que quieras. Sin lechuza también cuenta, ¿eh?",
+    "Dato curioso: las lechuzas vuelan casi en silencio gracias a los bordes suavecitos de sus plumas. Son las ninjas del cielo nocturno.",
+    "Una lechuza me trajo una carta toda arrugada. Resulta que era la lista del súper de una bruja: ojos de tritón, pan de dulce y cafecito.",
+    "Pregunta del día: si pudieras mandarle una carta a tu yo del futuro, ¿qué le dirías? Yo le pondría que siga cantando fuerte.",
+    "Aviso de la oficina: las lechuzas no aceptan paquetes de más de un kilo. La calabaza gigante que querías mandar va a tener que esperar.",
+    "Entre carta y carta, tómate tu agüita y descansa los ojos un ratito. Hasta las lechuzas cierran uno de vez en cuando.",
+    "Faltan doce días para Halloween. Ya llegaron como cien invitaciones a la fiesta y las lechuzas están agotadísimas.",
+    "Si hoy el lunes pesa, mándalo a volar con una lechuza. Que lo deje lejos, tipo del otro lado del bosque.",
+    "Cierre de lunes mensajero: gracias por pasar por la oficina. ¡Que tu semana llegue con buenas noticias, órale!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Mi lechuza es de 8 bits y entrega las cartas en cuadritos. A veces llega la mitad del mensaje y la otra mitad en el siguiente nivel."
+    ],
+    "chibi": [
+      "La lechuza es más grande que yo y me quiso llevar a mí como carta. ¡Casi me mandan a otra ciudad con estampilla y todo!"
+    ],
+    "samurai": [
+      "Un mensaje honorable se entrega a tiempo. Mi lechuza vuela con disciplina y no se detiene ni por un ratoncito."
+    ],
+    "cyberpunk": [
+      "Mi lechuza tiene visor holográfico y entrega mensajes encriptados por toda la ciudad neón. El cartero de la esquina ya no tiene chamba."
+    ],
+    "bruja": [
+      "Puerro le tiene celos a la lechuza porque ella sí sabe volar sola. Le dije que él es el gato de la casa y se le pasó tantito."
+    ],
+    "sakura": [
+      "La lechuza llegó con la carta envuelta en pétalos de cerezo. Ya no sé qué es más bonito, el mensaje o el envoltorio."
+    ],
+    "carreras": [
+      "Lechuza exprés: entrega en tiempo récord, curva cerrada en la chimenea y aterrizaje directo en meta. ¡Bandera a cuadros!"
+    ],
+    "sirena": [
+      "Bajo el mar no hay lechuzas, así que las cartas me las trae un pulpo. Tiene ocho brazos, entrega ocho cartas a la vez."
+    ],
+    "astronauta": [
+      "Mandé una lechuza a la estación espacial, pero sin gravedad se quedó flotando con la carta. Ahora es la mascota oficial de la nave."
+    ],
+    "colombiana": [
+      "¡Uy, parce, me llegó una carta por lechuza y era de mi abuelita! Me mandó un abrazo y la receta de los buñuelos, qué chimba."
+    ]
+  }
+}
