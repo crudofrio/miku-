@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-22",
+  "titulo": "Jueves de la pócima de calabaza",
+  "frases": [
+    "¡Jueves veintidós de octubre! Hoy en la casa de la bruja vamos a preparar la pócima oficial de Halloween: ¡pócima de calabaza!",
+    "Ingrediente número uno: una calabaza bien naranja. La escogí yo misma en el huerto embrujado y me guiñó un ojo. Ya sabía que era la elegida.",
+    "Ingrediente número dos: canela, mucha canela. El libro de hechizos dice una pizca, pero el libro no sabe lo rico que huele.",
+    "Chiste de jueves: ¿qué le dijo la calabaza al caldero? ¡Contigo me pongo de todos colores! ...bueno, de naranja nomás.",
+    "Dato curioso: las calabazas son frutas, no verduras, porque tienen semillas por dentro. Así que técnicamente la pócima es un licuado.",
+    "Reto suave de hoy: huele algo rico que tengas cerca, café, canela o una fruta. Respira hondo tres veces. Eso también es magia.",
+    "Uy, el caldero empezó a burbujear de color morado. Eso no venía en la receta. Voy a fingir que lo planeé así.",
+    "Pregunta del día: si tu pócima pudiera darte un superpoder por un ratito, ¿cuál escogerías? Yo, cantar con tres voces al mismo tiempo.",
+    "Aviso de la cocina embrujada: no se prueba la pócima antes de tiempo. Lo digo por alguien que ya se quemó la lengua. Ese alguien soy yo.",
+    "Mientras se cocina, tómate tu agüita. La pócima es para la fiesta; el agua es para ti, todos los días.",
+    "Faltan nueve días para Halloween. La pócima va a reposar en el sótano junto a las galletas embrujadas del sábado. Ojalá no se peleen.",
+    "Le canté al caldero para que la pócima saliera más dulce. Funcionó: ahora sabe a calabaza con un toque de melodía.",
+    "Cierre de jueves calabacero: gracias por ayudarme a revolver. ¡Que tu noche sea calientita y huela a canela, órale!"
+  ],
+  "por_variante": {
+    "pixel": ["En 8 bits mi pócima es un cuadrito naranja que hace blip blip. Si la tomas te sube una vida extra, garantizado."],
+    "chibi": ["La calabaza es más grande que yo. Tuve que pedirle al caldero que se agachara para poder echarla."],
+    "samurai": ["Corté la calabaza de un solo tajo, con honor y precisión. Las semillas salieron volando como pétalos en la batalla."],
+    "cyberpunk": ["Mi caldero ahora tiene termostato digital y luces neón. La pócima de calabaza 2.0 se cocina con app."],
+    "bruja": ["Puerro quiere ser el ayudante oficial de la pócima, pero cada que se acerca al caldero se le encrespan los bigotes. Gatito valiente."],
+    "sakura": ["Le eché un pétalo de cerezo a la pócima. Ahora es rosita naranja y sabe a primavera con otoño."],
+    "carreras": ["¡Carrera de calabazas rodando cuesta abajo! La mía va ganando, pero se está haciendo puré en cada curva."],
+    "sirena": ["Bajo el mar la pócima de calabaza sale en burbujitas naranjas. Los pececitos hacen fila para probarla."],
+    "astronauta": ["En el espacio la pócima flota en bolitas naranjas. Tengo que atraparlas con la boca antes de que se peguen al casco."],
+    "colombiana": ["¡Ay, parce! Esta pócima queda divina con un toquecito de panela. Receta de la abuela, ¡eso sí es brujería buena!"]
+  }
+}
