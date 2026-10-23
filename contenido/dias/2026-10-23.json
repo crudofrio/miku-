@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-23",
+  "titulo": "Viernes de tallar calabazas",
+  "frases": [
+    "¡Viernes veintitrés de octubre! Hoy en la casa de la bruja toca tallar las calabazas para la ventana. ¡Saca tu cucharita, que esto va a quedar chido!",
+    "Paso uno: le quitamos la tapita a la calabaza. Paso dos: sacamos las tripitas. Paso tres: fingimos que no da asquito. Bueno, da poquito.",
+    "Las semillas no se tiran, eh. Se lavan, se tuestan con sal y quedan de botana. Calabaza que se respeta no desperdicia nada.",
+    "Chiste de viernes: ¿por qué la calabaza no fue a la fiesta? ¡Porque se quedó sin cabeza! ...le quitamos la tapita, pues.",
+    "Dato curioso: antes de las calabazas, en Irlanda tallaban nabos para Halloween. Imagínate una cara de terror hecha de nabo. Da más risa que miedo.",
+    "Reto suave de hoy: dibuja en un papelito la cara que le pondrías a tu calabaza. Sonriente, gruñona o dormida, todas valen.",
+    "La mía tiene ojos de corazón y una sonrisa con un solo diente. Se llama Don Calabacín y ya es parte de la familia.",
+    "Pregunta del día: ¿tu calabaza sería de las que asustan o de las que saludan? Yo creo que la mía saluda y luego canta.",
+    "Aviso de seguridad embrujada: el cuchillo lo usan los adultos con cuidado. Yo me quedo con la cuchara y el marcador, que es lo más divertido.",
+    "Ya es viernes, así que descansa los ojitos un rato y estírate. Tallar calabazas cansa los brazos, y estar en pantalla también.",
+    "Faltan ocho días para Halloween. Las calabazas van a la ventana junto a los farolitos del otro jueves. ¡La casa ya brilla de lejos!",
+    "Le puse una velita adentro a Don Calabacín y ahora proyecta su sonrisa en la pared. Le canté una canción y juro que parpadeó.",
+    "Cierre de viernes calabacero: gracias por tallar conmigo. ¡Buen fin de semana, que tu calabaza te cuide la casa, órale!"
+  ],
+  "por_variante": {
+    "pixel": ["En 8 bits mi calabaza tiene la cara hecha de cuadritos. Es la calabaza más cuadrada y orgullosa del mundo."],
+    "chibi": ["Me metí entera dentro de la calabaza para sacar las semillas. Ahora no sé cómo salir, ayúdame tantito."],
+    "samurai": ["Tallé la cara de mi calabaza con tres cortes precisos. El maestro dice que tiene mirada de guerrero."],
+    "cyberpunk": ["Mi calabaza tiene ojos LED que cambian de color con la música. Cuando canto, se pone morada."],
+    "bruja": ["Puerro se acostó adentro de la calabaza vacía y no quiere salir. Dice que es su nueva cama oficial de Halloween."],
+    "sakura": ["Le tallé florecitas de cerezo a mi calabaza. Con la vela adentro, la pared se llena de pétalos de luz."],
+    "carreras": ["Puse una calabaza tallada en el techo de mi coche. Ahora en cada curva me sonríe por el retrovisor."],
+    "sirena": ["Bajo el mar tallé una calabaza y los pececitos entran por los ojos y salen por la boca. ¡Es su nuevo castillo!"],
+    "astronauta": ["Tallar una calabaza en gravedad cero es un caos: las semillas flotan por toda la nave como estrellitas naranjas."],
+    "colombiana": ["¡Ay, parce! Mi calabaza tiene sombrero vueltiao y bigote. Es la calabaza más berraca de todo el barrio."]
+  }
+}
