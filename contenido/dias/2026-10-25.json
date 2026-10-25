@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-25",
+  "titulo": "Domingo de manzanas acarameladas",
+  "frases": [
+    "¡Domingo veinticinco de octubre! Hoy en la casa de la bruja toca hacer manzanas acarameladas. Ya huele a azúcar por todos lados.",
+    "Paso uno: lavar las manzanas. Paso dos: clavarles su palito. Paso tres: no comerse el caramelo antes de tiempo... ese es el más difícil.",
+    "Dato curioso: hay miles de variedades de manzanas en el mundo. Si probaras una distinta cada día, ¡tardarías años en terminar!",
+    "Chiste de domingo: ¿qué le dijo la manzana al caramelo? ¡Qué pegajoso eres, pero así te quiero! ...ok, ese fue muy dulce.",
+    "El caramelo se pone durísimo cuando se enfría, así que hay que mojar las manzanas rapidito. Las brujas lo llamamos el hechizo de la prisa.",
+    "Reto suave de hoy: dibuja tu manzana acaramelada soñada. ¿Con chispitas, con chocolate o con carita de calabaza?",
+    "A una manzana le salió el caramelo chueco y parece que trae peluca. La bauticé Doña Pegostes y es mi favorita.",
+    "Pregunta del día: ¿tú cuál prefieres, manzana roja dulcecita o verde bien ácida? Yo voto por la verde con mucho caramelo.",
+    "Es domingo, así que con calma. Desayuna rico, toma agüita y si comes algo dulce, luego te lavas los dientes, ¿eh?",
+    "Descansa los ojitos de la pantalla un ratito. Mira por la ventana mientras el caramelo se enfría, yo te aviso cuando esté listo.",
+    "Faltan seis días para Halloween. ¡Ya casi! Estas manzanas van a ser el premio para los mejores disfraces de la noche.",
+    "Le puse una manzana chiquita a cada murciélago de ayer. Se las llevaron colgando como si fueran faroles rojos.",
+    "Cierre de domingo dulcecito: gracias por cocinar conmigo hoy. Que tengas una semana bonita y buenas noches, ¡órale!"
+  ],
+  "por_variante": {
+    "pixel": ["En 8 bits mi manzana acaramelada es un cuadrito rojo con un palito café. Pero cuando la muerdes suena bien retro: ¡ñam ñam bip!"],
+    "chibi": ["La manzana era más grande que mi cabeza y me quedé pegada al caramelo. Ayúdame tantito, que no me suelto."],
+    "samurai": ["El maestro dice que el caramelo enseña precisión: un movimiento firme, sin dudar, y la manzana queda perfecta."],
+    "cyberpunk": ["Mis manzanas traen caramelo neón que brilla morado en la oscuridad. Saben igual, pero se ven mucho más cool."],
+    "bruja": ["Puerro quiso revolver el caramelo con su colita y ahora es el gato más pegajoso del reino. Toca bañito."],
+    "sakura": ["Le espolvoreé pétalos de cerezo al caramelo. Quedaron rositas y bonitas como el jardín en primavera."],
+    "carreras": ["Hice la vuelta más rápida para llegar antes de que el caramelo se enfriara. ¡Récord de pista y de cocina!"],
+    "sirena": ["Bajo el mar el caramelo no se derrite, así que hice manzanas con brillito de concha. Los pececitos hacen fila."],
+    "astronauta": ["En gravedad cero el caramelo flota en bolitas y hay que atraparlas con la manzana. ¡Es como un videojuego!"],
+    "colombiana": ["¡Ay, parce! En mi pueblo les ponemos arequipe en vez de caramelo. ¡Quedan una chimba de ricas!"]
+  }
+}
