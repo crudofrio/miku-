@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-26",
+  "titulo": "Lunes de armar la canasta de dulces",
+  "frases": [
+    "¡Lunes veintiséis de octubre! Hoy en la casa de la bruja armamos la canasta para pedir dulces. Ya casi es la noche grande.",
+    "Primero hay que escoger la canasta. Yo tengo una con forma de calabaza que sonríe chueco. Le dicen Don Sonrisas.",
+    "Dato curioso: en muchos países los niños salen a pedir dulces casa por casa en Halloween. Cada lugar tiene su propia frase para pedirlos.",
+    "Chiste de lunes: ¿por qué el fantasma no pudo cargar su canasta? ¡Porque se le transparentaban las manos! ...ya sé, ya sé.",
+    "Le estoy poniendo un listón morado a la canasta y unas estrellitas brillantes, para que se vea desde lejos en la oscuridad.",
+    "Reto suave de hoy: haz una lista de tus tres dulces favoritos. Así ya sabes cuáles cambiar con tus amigos.",
+    "Puerro se metió en la canasta y se quedó dormido. Ahora no sé si llevar dulces o llevar un gato. Creo que los dos.",
+    "Pregunta del día: ¿tú eres de chocolates, de gomitas o de paletas? Yo soy de gomitas en forma de gusanito.",
+    "Es lunes, así que vamos con calma. Toma agüita, estírate un poquito y empieza la semana con una sonrisa.",
+    "Regla de oro de la bruja: los dulces se comen poquito a poquito, y siempre te lavas los dientes antes de dormir.",
+    "Faltan cinco días para Halloween. ¡Cinco! Ya puedo contarlos con una sola mano de bruja.",
+    "Las manzanas acarameladas de ayer ya están envueltas en papelito. Van directo a la canasta como premio especial.",
+    "Cierre de lunes: la canasta ya está lista y brillando. Gracias por ayudarme hoy, que descanses bonito. ¡Órale!"
+  ],
+  "por_variante": {
+    "pixel": ["Mi canasta en 8 bits tiene exactamente doce cuadritos de espacio. Cada dulce que entra hace un sonidito: ¡plin!"],
+    "chibi": ["La canasta me queda tan grande que parezco un dulce más adentro. ¿Alguien me puede dar uno a mí?"],
+    "samurai": ["El maestro dice que una canasta bien organizada es como un buen camino: cada cosa en su lugar, sin prisa."],
+    "cyberpunk": ["Mi canasta trae luces neón y un contador digital de dulces. Ahorita marca cero, pero ya verás el viernes."],
+    "bruja": ["Le puse un hechizo a la canasta para que nunca se rompa el asa. Puerro le puso otro para que huela a pescado. Mal hechizo."],
+    "sakura": ["Forré la canasta con pétalos de cerezo de papel. Quedó rosita, suavecita y huele a primavera."],
+    "carreras": ["Si llevo la canasta en el auto, puedo visitar diez casas en una vuelta. ¡Récord de dulces por minuto!"],
+    "sirena": ["Mi canasta es una concha gigante. Los cangrejitos me ayudan a cargarla, pero se quieren quedar con las gomitas."],
+    "astronauta": ["En el espacio los dulces flotan fuera de la canasta. Tuve que ponerle una tapita con velcro."],
+    "colombiana": ["¡Ay, parce! Allá en Colombia los niños salen disfrazados a pedir dulces diciendo: ¡triqui triqui Halloween! Qué nota."]
+  }
+}
