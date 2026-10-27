@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-27",
+  "titulo": "Martes de colgar telarañas",
+  "frases": [
+    "¡Martes veintisiete de octubre! Hoy decoramos la casa de la bruja con telarañas de mentiritas. Quedan cuatro días para Halloween.",
+    "Las telarañas las hago con estambre blanco, nudito por nudito. Si me equivoco, digo que la araña estaba nerviosa.",
+    "Dato curioso: la seda de araña es muy fuerte para lo delgadita que es. Las arañas son ingenieras chiquitas.",
+    "Chiste de martes: ¿qué le dijo una araña a otra? ¡Nos vemos en la web! ...perdón, no me pude aguantar.",
+    "Puerro está jugando con el estambre y ya hizo su propia telaraña... alrededor de la silla. Y de sí mismo.",
+    "Reto suave de hoy: dibuja una telaraña en un papel, empezando por el centro y haciendo espiral. ¡Se ve bien chida!",
+    "Colgué una arañita de peluche en la ventana. Se llama Doña Patitas y tiene ocho zapatos, uno para cada pata.",
+    "Pregunta del día: ¿a ti te dan miedo las arañas o te caen bien? Yo les tengo respeto, pero desde lejitos.",
+    "Recuerda: si ves una araña de verdad en casa, no la toques. Mejor dile a un adulto y que la saque con cuidado.",
+    "Ya llevo tres esquinas decoradas. La cuarta la dejo para mañana, porque las brujas también descansamos.",
+    "Las arañas ayudan mucho: se comen a los mosquitos. Por eso en esta casa las respetamos, aunque sean feítas.",
+    "Con la luz apagada y una linterna, las telarañas hacen sombras bien misteriosas en la pared. ¡Uuuuh!",
+    "Cierre de martes: la casa ya se ve bien embrujada. Gracias por ayudarme a colgar todo, que descanses bonito. ¡Órale!"
+  ],
+  "por_variante": {
+    "pixel": ["Mi telaraña en 8 bits es puro cuadrito, pero si la ves de lejos parece de verdad. Bueno, casi."],
+    "chibi": ["Me enredé en mi propia telaraña y ahora parezco un tamalito. ¿Me ayudas a salir?"],
+    "samurai": ["La araña teje con paciencia, hilo por hilo. El maestro dice que así se construye todo lo que vale la pena."],
+    "cyberpunk": ["Mis telarañas tienen fibra óptica y brillan en azul neón. Son la red más rápida del barrio."],
+    "bruja": ["Le pedí a mi araña consentida que tejiera un letrero que dijera BIENVENIDOS. Escribió BIENBENIDOS. Igual la quiero."],
+    "sakura": ["Colgué pétalos de cerezo en la telaraña y quedó como un collar rosita. La araña más elegante del mundo."],
+    "carreras": ["Puse telarañas en los espejos del auto. Ahora el coche está disfrazado de coche embrujado. ¡Brum brum, buuu!"],
+    "sirena": ["Bajo el mar no hay arañas, pero hay estrellas de mar que se pegan en las rocas igualito. ¡Decoración natural!"],
+    "astronauta": ["En el espacio una telaraña flotaría para todos lados. Por eso la mía está pegada con cinta a la nave."],
+    "colombiana": ["¡Qué chévere, parce! Mi abuela decía que una telaraña en la esquina es una casa con historias. Yo le creo."]
+  }
+}
