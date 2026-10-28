@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-28",
+  "titulo": "Miércoles de faroles de papel",
+  "frases": [
+    "¡Miércoles veintiocho de octubre! Hoy hacemos faroles de papel para alumbrar la casa de la bruja. Quedan tres días para Halloween.",
+    "Para un farol solo necesitas papel de color, tijeras con punta redonda y un poquito de pegamento. ¡Y paciencia de bruja!",
+    "Doblé el papel a la mitad, le hice cortecitos y lo enrollé. Quedó como un acordeón que brilla. ¡Bien chido!",
+    "Dato curioso: en muchos países se hacen fiestas de faroles para celebrar la luz en las noches largas. La luz siempre une a la gente.",
+    "Chiste de miércoles: ¿por qué el farol nunca se pierde? Porque siempre va iluminado. ...ya sé, ya sé.",
+    "Puerro quiso ayudar y se llevó un farol en la boca. Ahora tenemos un gato con lámpara. Muy útil, la verdad.",
+    "Reto suave de hoy: dibuja una calabaza en tu farol de papel. Si le pones ojitos chuecos, mejor todavía.",
+    "Importante: los faroles de papel van con lucecitas LED, nunca con velas de verdad. El papel y el fuego no son amigos.",
+    "Pregunta del día: ¿de qué color harías tu farol? Yo voy con morado y naranja, los colores oficiales de octubre.",
+    "Ya colgué cinco faroles en el pasillo. Cuando se apaga la luz parece un caminito mágico hacia la cocina.",
+    "Si te sale chueco tu farol, no pasa nada. Los faroles chuecos alumbran igual de bonito, palabra de bruja.",
+    "Con todos los faroles prendidos, las telarañas de ayer se ven todavía más misteriosas. ¡Uuuuh!",
+    "Cierre de miércoles: la casa ya brilla de colores. Gracias por hacer faroles conmigo, que descanses bonito. ¡Órale!"
+  ],
+  "por_variante": {
+    "pixel": ["Mi farol en 8 bits tiene nomás cuatro colores, pero alumbra como si tuviera mil. ¡Poder retro!"],
+    "chibi": ["Hice un farol más grande que yo y ahora no veo por dónde camino. ¡Ay, me choqué con la puerta!"],
+    "samurai": ["Un farol pequeño basta para iluminar el camino. El maestro dice que no se necesita mucha luz, solo la suficiente."],
+    "cyberpunk": ["Mis faroles tienen LEDs que cambian de color con la música. Son los más brillantes de toda la ciudad neón."],
+    "bruja": ["Le pedí a mi escoba que sostuviera un farol mientras volamos. Ahora tenemos faro delantero. ¡Seguridad ante todo!"],
+    "sakura": ["Pinté pétalos de cerezo en mi farol y cuando se prende parece que florece en la oscuridad. Qué bonito."],
+    "carreras": ["Puse faroles de papel en mi auto de carreras. No sirven de faros, pero el coche se ve bien fiestero. ¡Brum!"],
+    "sirena": ["Bajo el mar hay peces que tienen su propio farolito en la cabeza. ¡Ellos no necesitan papel ni pegamento!"],
+    "astronauta": ["Desde la nave, las ciudades de noche parecen faroles gigantes. La Tierra también se decora para la noche."],
+    "colombiana": ["¡Qué chévere, parce! En Colombia la Noche de las Velitas llena todo de faroles en diciembre. Yo ya voy practicando."]
+  }
+}
