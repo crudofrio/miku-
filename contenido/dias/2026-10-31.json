@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-31",
+  "titulo": "Sábado de ¡Feliz Halloween!",
+  "frases": [
+    "¡Llegó el día! Sábado treinta y uno de octubre: ¡feliz Halloween! Todo el mes nos preparamos para esto.",
+    "Repaso rápido: calabaza tallada, telarañas colgadas, faroles prendidos, canasta de dulces lista y gatito de compañía. ¡Misión cumplida!",
+    "¿Dulce o truco? Yo siempre digo dulce, porque los trucos me salen al revés.",
+    "Chiste del día: ¿por qué los fantasmas son malos mintiendo? ¡Porque se les ve a través!",
+    "Puerro se disfrazó de fantasma con una servilleta. Le quedó chiquita, pero el esfuerzo cuenta.",
+    "Reto de hoy: ponte aunque sea un detalle de disfraz. Un gorro, unas orejitas o una capa hecha con una toalla. ¡Todo vale!",
+    "Tip de seguridad: si sales a pedir dulces, ve acompañado, lleva algo que brille y revisa los dulces antes de comerlos.",
+    "Pregunta del día: ¿cuál es tu dulce favorito de la canasta? Yo voto por los chupetes de colores.",
+    "Hoy toca maratón de pelis de miedo... pero de las suavecitas, que yo me asusto hasta con los créditos.",
+    "No te olvides de los michis y perritos: los cohetes y el relajo los asustan. Déjalos adentro, tranquilitos.",
+    "Dato curioso: Halloween viene de una fiesta antigua llamada Samhain, cuando la gente prendía fogatas para despedir el verano.",
+    "Mañana empieza noviembre y guardamos las brujas, pero hoy... ¡hoy se celebra con todo!",
+    "Cierre del día: gracias por acompañarme todo octubre. ¡Feliz Halloween y dulces sueños sin sustos!"
+  ],
+  "por_variante": {
+    "pixel": ["Mi disfraz de Halloween en 8 bits: una calabaza cuadradita con sonrisa de tres pixeles. ¡Nivel desbloqueado!"],
+    "chibi": ["Soy una mini bruja chibi pidiendo dulces. La canasta es más grande que yo, pero no me rindo."],
+    "samurai": ["Esta noche patrullo el barrio como guardiana. Ningún fantasma travieso se acerca a la canasta de dulces."],
+    "cyberpunk": ["Halloween en la ciudad neón: calabazas holográficas, fantasmas de LED y dulces con código QR."],
+    "bruja": ["¡Mi noche favorita del año! Escoba lista, sombrero puntiagudo y caldero lleno de chocolate caliente."],
+    "sakura": ["Una calabacita rodeada de pétalos rosas. Halloween versión tierna, porque también se vale."],
+    "carreras": ["Carrera especial de Halloween: el premio no es trofeo, es una canasta llena de dulces. ¡A fondo!"],
+    "sirena": ["En el fondo del mar también celebramos: los peces linterna son nuestras calabazas brillantes."],
+    "astronauta": ["Desde el espacio, la Tierra parece una calabaza gigante... bueno, una azul. Pero con mucha imaginación."],
+    "colombiana": ["¡Feliz Halloween, parce! Allá en Colombia también se celebra, y los chiquitos salen disfrazados a pedir dulces."]
+  }
+}
