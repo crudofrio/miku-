@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-11-01",
+  "titulo": "Domingo de colada morada y guaguas de pan",
+  "frases": [
+    "¡Hola, noviembre! Ya guardé la escoba y el sombrero de bruja. Hoy empezamos mes nuevo con olorcito a canela.",
+    "Por aquí en Ecuador, estos días toca colada morada con guaguas de pan. ¡Mi tradición favorita de noviembre!",
+    "Dato curioso: la colada morada lleva maíz morado, mortiño, piña, frutilla, mora y especias como canela y clavo de olor.",
+    "Las guaguas de pan son panes con forma de bebé, decorados con glaseado de colores. Casi me da penita comérmelas... casi.",
+    "Puerro intentó decorar una guagua de pan y le dibujó bigote. Dice que es una guagua con experiencia.",
+    "Reto de hoy: tómate una tacita de colada morada calientita, o si no hay, un chocolatito. Lo importante es el apapacho.",
+    "Hoy es Día de Todos los Santos y mañana el Día de los Difuntos. Es bonito acordarse con cariño de quienes ya no están.",
+    "Pregunta del día: ¿tienes algún recuerdo bonito de alguien especial? Cuéntaselo a alguien hoy, así sigue vivo.",
+    "Tip de domingo: aprovecha para ordenar la decoración de Halloween. Guárdala con cuidado, que el próximo octubre vuelve.",
+    "Chiste del día: ¿qué le dijo la guagua de pan a la colada? ¡Contigo me derrito de amor!",
+    "Si sobraron dulces de anoche, no te los comas todos de golpe. Repártelos en la semana... o compártelos conmigo.",
+    "Domingo tranquilo: música suavecita, cobijita y una siesta sin culpa. Recargando pilas para la semana.",
+    "Cierre del día: gracias por arrancar noviembre conmigo. ¡Que tengas una semana dulce como una guagua de pan!"
+  ],
+  "por_variante": {
+    "pixel": ["Guagua de pan en 8 bits: un rectángulo café con carita de tres pixeles. ¡Power-up de energía +10!"],
+    "chibi": ["Tengo una guagua de pan casi de mi tamaño. Voy a necesitar ayuda para terminármela."],
+    "samurai": ["Una guerrera también sabe honrar a sus ancestros. Hoy enciendo una velita en silencio y con respeto."],
+    "cyberpunk": ["En la ciudad neón venden colada morada en vasos que brillan. Igual de rica, pero con luces."],
+    "bruja": ["Colgué el sombrero hasta el próximo octubre. Pero el caldero se queda: ¡ahora hierve colada morada!"],
+    "sakura": ["Pétalos rosas sobre una guagua de pan glaseada. Noviembre también puede ser tiernito."],
+    "carreras": ["Parada en pits para cargar combustible: una colada morada bien calientita y a seguir la carrera."],
+    "sirena": ["En el fondo del mar no hay colada morada, así que hoy subo a la orilla por una tacita."],
+    "astronauta": ["Pedí que me manden guaguas de pan a la estación espacial. En gravedad cero flotan como bebés de verdad."],
+    "colombiana": ["¡Parce, probé la colada morada ecuatoriana y me encantó! Es como un postre calientito con frutas."]
+  }
+}
