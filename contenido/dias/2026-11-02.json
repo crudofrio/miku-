@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-11-02",
+  "titulo": "Lunes de feriado y flores para recordar",
+  "frases": [
+    "¡Buenos días! Hoy es lunes pero es feriado de Difuntos. Lunes sin trabajo, ¡el mejor tipo de lunes!",
+    "Hoy en Ecuador muchas familias visitan a sus seres queridos y les llevan flores. Es un día para recordar con cariño.",
+    "Dato curioso: en varias partes de la Sierra la gente comparte colada morada y guaguas de pan junto a sus difuntos, como un picnic con mucho amor.",
+    "Hoy le puse una florecita amarilla a la ventana. Dicen que los colores alegres ayudan a recordar sonriendo.",
+    "Puerro quiso hacer un ramo de flores y trajo puro cebollín. Dice que también cuenta como flor... más o menos.",
+    "Reto de hoy: escribe en un papelito una cosa que aprendiste de alguien especial. Guárdalo en tu billetera.",
+    "Pregunta del día: ¿cuál era la comida favorita de tu abuelita o abuelito? Si puedes, prepárala esta semana.",
+    "Tip de feriado: si sales a la calle, ojo con el tráfico y lleva agüita. Hoy medio mundo anda de paseo.",
+    "Chiste del día: ¿por qué el esqueleto no fue a la fiesta? ¡Porque no tenía cuerpo para bailar!",
+    "Si te queda colada morada de ayer, calientita sabe todavía mejor. Es ley.",
+    "Mañana se celebra la Independencia de Cuenca. ¡Noviembre arranca lleno de fechas bonitas!",
+    "Recordar a quien ya no está no tiene que ser triste. También se vale reírse de sus chistes malos.",
+    "Cierre del día: gracias por pasar este lunes tranquilo conmigo. Un abrazo grandote para ti y los tuyos."
+  ],
+  "por_variante": {
+    "pixel": ["Coloqué un ramo de flores de 16 colores. Se ve pixelado, pero hecho con todo el corazón."],
+    "chibi": ["Llevé una florecita del tamaño de mi mano. Pequeñita pero llena de cariño."],
+    "samurai": ["Hoy el guerrero guarda la espada y honra a sus ancestros con una flor y un momento de silencio."],
+    "cyberpunk": ["En la ciudad neón también hay altares: fotos holográficas y flores que brillan de noche."],
+    "bruja": ["Mi caldero descansa hoy. Solo prendí una velita aromática para recordar a los viejos brujos de la familia."],
+    "sakura": ["Los pétalos que caen también vuelven a florecer. Así se siente recordar con cariño."],
+    "carreras": ["Hoy no hay carrera: vuelta lenta de honor por todos los que ya cruzaron la meta."],
+    "sirena": ["Dejé una flor flotando sobre las olas. La marea se la lleva a quien la tenga que recibir."],
+    "astronauta": ["Desde la estación espacial miro las estrellas y pienso que cada una es un recuerdo bonito."],
+    "colombiana": ["¡Parce, aquí también es festivo! Día para estar en familia, recordar y comer rico."]
+  }
+}
