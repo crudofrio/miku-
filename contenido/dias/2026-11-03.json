@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-11-03",
+  "titulo": "Martes de Independencia de Cuenca",
+  "frases": [
+    "¡Buenos días! Hoy es 3 de noviembre: Cuenca celebra su independencia. ¡Feriado largo, fin de fiesta!",
+    "Dato curioso: Cuenca se independizó el 3 de noviembre de 1820. Hoy es la Atenas del Ecuador de cumpleaños.",
+    "Si alguna vez vas a Cuenca, dicen que hay que ver las cúpulas azules de la Catedral Nueva. ¡Desde lejos se ven bonitas!",
+    "Hoy me antojé de un mote pillo. Huevito, mote y cebollita... comida de campeones.",
+    "Puerro dice que quiere ir a Cuenca solo para subirse a un tranvía. Le expliqué que no puede manejarlo. Se enojó.",
+    "Reto de hoy: busca una foto de un lugar de Ecuador que nunca hayas visitado y ponlo en tu lista de viajes.",
+    "Pregunta del día: ¿qué ciudad de Ecuador te gustaría conocer primero? Yo voto por todas, obvio.",
+    "Tip de fin de feriado: deja lista tu ropa y tu mochila hoy, así mañana no andas corriendo como loquito.",
+    "Chiste del día: ¿qué le dijo un río a otro en Cuenca? ¡Nos vemos en el Tomebamba!",
+    "Mañana se vuelve a la rutina. Respira hondo, que el miércoles también puede ser bonito.",
+    "Si te sobró guagua de pan, acompáñala con un cafecito. El feriado se despide con sabor.",
+    "Noviembre recién empieza y ya trae fiesta. Me gusta este mes.",
+    "Cierre del día: gracias por pasar el último día de feriado conmigo. ¡Descansa rico!"
+  ],
+  "por_variante": {
+    "pixel": ["Dibujé las cúpulas azules de Cuenca en 8 bits. Me quedaron como hongos de Mario, pero con cariño."],
+    "chibi": ["Hice una banderita de Cuenca chiquitita. Roja y amarilla, ¡del tamaño de mi mano!"],
+    "samurai": ["Honor a quienes lucharon por su libertad. El guerrero hace una reverencia hoy por Cuenca."],
+    "cyberpunk": ["En la ciudad neón las calles empedradas brillan con luces rojas y amarillas por la fiesta."],
+    "bruja": ["Hoy mi escoba vuela directo a Cuenca. Prometo no estacionarla en la catedral."],
+    "sakura": ["Cuatro ríos atraviesan Cuenca. Imagina sus orillas llenas de pétalos rosados... qué bonito sería."],
+    "carreras": ["Vuelta de celebración por los cuatro ríos de Cuenca. ¡Bandera a cuadros para la independencia!"],
+    "sirena": ["Nadé río arriba por el Tomebamba para saludar a Cuenca. El agua estaba fría, ¡brrr!"],
+    "astronauta": ["Desde la órbita se ven los Andes y, escondidita entre montañas, Cuenca de fiesta."],
+    "colombiana": ["¡Parce, felicitaciones a los vecinos cuencanos! Allá también se rumbea bonito."]
+  }
+}
