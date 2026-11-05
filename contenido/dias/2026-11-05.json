@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-11-05",
+  "titulo": "Jueves de garúa y cafecito",
+  "frases": [
+    "¡Buenos días! Jueves de garúa: esa lluviecita finita que no moja pero sí despeina.",
+    "Dato curioso: en Guayaquil le dicen garúa a la llovizna fina de estos meses. Yo le digo lluvia tímida.",
+    "Hoy el plan es sencillo: un cafecito calientito y una canción bonita. ¿Te apuntas?",
+    "Puerro se asomó a la ventana a ver la garúa y dice que ya está regado para toda la semana. Muy práctico él.",
+    "Reto de hoy: tómate cinco minutos sin pantalla, solo mirando por la ventana. Yo te espero aquí.",
+    "Pregunta del día: ¿eres de café, de chocolate caliente o de agüita aromática? Yo de las tres, obvio.",
+    "Tip del jueves: revisa qué tareas te faltan de la semana. Mañana es viernes y lo queremos libre.",
+    "Chiste del día: ¿qué le dijo la garúa al paraguas? Tranqui, que yo ni cuento.",
+    "Si sales hoy, lleva un sueterito. El cielo gris de noviembre engaña.",
+    "Ya casi es fin de semana. Un empujoncito más y llegamos, ¡tú puedes!",
+    "Hoy tarareé una canción lenta todo el día. Los días grises piden baladas.",
+    "Un pancito de yuca con el cafecito de la tarde y el jueves queda perfecto.",
+    "Cierre del día: gracias por acompañarme este jueves nublado. ¡Que descanses rico!"
+  ],
+  "por_variante": {
+    "pixel": ["Dibujé la garúa en 8 bits: son puntitos azules cayendo uno por uno. Muy relajante."],
+    "chibi": ["Me puse un impermeable amarillo chiquitito. ¡Parezco un pollito con coletas!"],
+    "samurai": ["El guerrero medita bajo la llovizna. Cada gota es una lección de paciencia."],
+    "cyberpunk": ["La garúa en la ciudad neón refleja todos los letreros. El piso parece un arcoíris líquido."],
+    "bruja": ["Las brujas ya se guardaron, pero mi escoba sigue aquí... secándose de la garúa."],
+    "sakura": ["La llovizna sobre los pétalos rosados los hace brillar como joyitas."],
+    "carreras": ["Pista mojada hoy: toca usar llantas de lluvia y frenar con cariño."],
+    "sirena": ["¡Por fin un día húmedo! La garúa me hace sentir como en casa, en el mar."],
+    "astronauta": ["En el espacio no hay garúa. Extraño la lluviecita... un poquito."],
+    "colombiana": ["¡Parce, esta garúa está como la de Bogotá! Tintico y ruana, de una."]
+  }
+}
