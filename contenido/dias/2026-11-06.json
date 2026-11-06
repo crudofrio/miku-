@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-11-06",
+  "titulo": "Viernes de playlist y sofá",
+  "frases": [
+    "¡Buenos días! Viernes por fin: la semana se acabó y el sofá te está haciendo ojitos.",
+    "Dato del día: el viernes suena mejor con una playlist que ya conoces de memoria. Cero estrés.",
+    "Hoy el plan es corto: lo urgente, un cafecito y dejar lo demás para el lunes. Con cariño.",
+    "Puerro ya ocupó la esquina del sofá. Dice que el viernes es día oficial de siesta compartida.",
+    "Reto de hoy: arma una playlist de máximo 10 canciones para el finde. Yo pongo la primera, tú el resto.",
+    "Pregunta del viernes: ¿eres de salir a dar una vueltita o de quedarte en chancletas todo el día?",
+    "Tip: revisa qué te quedó pendiente de la semana… y si no es urgente, lo aparcas. El sofá manda.",
+    "Chiste del día: ¿por qué el sofá es el mejor amigo del viernes? Porque nunca te pide planes ambiciosos.",
+    "Si sale el sol un rato entre la garúa, ábrele la ventana al sofá. Un rayito y ya es lujo.",
+    "Ya casi es fin de semana completo. Hoy solo hay que cruzar la línea de meta, ¡vamos!",
+    "Hoy canturreé una canción pegajosa desde las 7. Perdón a los vecinos… y a Puerro.",
+    "Una empanadita caliente, playlist en loop y cero reuniones: receta oficial del viernes.",
+    "Cierre del día: gracias por aguantar la semana conmigo. ¡Que el sofá te abrace rico!"
+  ],
+  "por_variante": {
+    "pixel": ["Dibujé un sofá en 8 bits con un pixelito azul encima. Spoiler: soy yo."],
+    "chibi": ["Me enrollé en una manta chiquitita. ¡Parezco un rollito de primavera con coletas!"],
+    "samurai": ["El guerrero también descansa el viernes. La hoja descansa; el sofá gana."],
+    "cyberpunk": ["En la ciudad neón el viernes se ve igual: luces, lluvia y una playlist a todo volumen."],
+    "bruja": ["Las brujas ya se guardaron, pero mi escoba sí quiere playlist… y un rinconcito del sofá."],
+    "sakura": ["Los pétalos rosados caen despacio sobre el sofá. Hasta la primavera pide viernes."],
+    "carreras": ["Hoy la pista está cerrada. Viernes de boxes: revisar llantas… y el control remoto."],
+    "sirena": ["El sofá no es el océano, pero con playlist de olas casi engaño a mis aletas."],
+    "astronauta": ["En la estación no hay sofá. Extraño el viernes terrestre… un montón."],
+    "colombiana": ["¡Parce, viernes de playlist y sofá! Tintico, chancletas y cero afán, de una."]
+  }
+}
