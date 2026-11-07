@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-11-07",
+  "titulo": "Sábado de cero alarmas",
+  "frases": [
+    "¡Buenos días… o buenas tardes! Hoy no hay alarma. Despierta cuando el cuerpo diga basta.",
+    "Dato del día: el sábado sabe mejor si empiezas lento. Café, pan y cero prisa: receta oficial.",
+    "Hoy el plan es simple: lo que te dé la gana, en el orden que te dé la gana. Punto.",
+    "Puerro todavía no se levanta. Dice que los sábados él es el jefe del horario.",
+    "Reto de hoy: desayuna algo rico sin mirar el reloj. Si se te hace mediodía, ¡mejor!",
+    "Pregunta del sábado: ¿eres de madrugar por gusto o de pelear con la almohada hasta tarde?",
+    "Tip: si sale un rayito entre la garúa, aprovecha para abrir la ventana. El aire fresco de sábado es gratis.",
+    "Chiste del día: ¿por qué el sábado no usa despertador? Porque ya firmó un pacto de paz con la cama.",
+    "Si tienes pendientes, elige solo uno. El resto puede esperar al lunes sin drama.",
+    "Hoy canturreé bajito para no despertar a nadie… fallé a los dos minutos. Perdón.",
+    "Una empanada, un jugo y el sofá otra vez: el finde sigue con derecho a repetición.",
+    "Si sales un rato, chancletas o tenis cómodos. El sábado no exige uniforme.",
+    "Cierre del día: gracias por regalarnos un sábado sin prisa. ¡Que descanses rico!"
+  ],
+  "por_variante": {
+    "pixel": ["Dibujé un despertador en 8 bits… y luego le puse un gran X rojo encima. Sábado gana."],
+    "chibi": ["Me escondí debajo de la cobija chiquitita. ¡No me busquen hasta el mediodía!"],
+    "samurai": ["Hasta el guerrero guarda la hoja el sábado. Hoy el dojo es la cama."],
+    "cyberpunk": ["En la ciudad neón el sábado también apaga alarmas. Solo brilla el café."],
+    "bruja": ["Mi escoba está de franco. Las brujas ya descansan; yo también, con té."],
+    "sakura": ["Los pétalos caen sin prisa. Hasta la primavera entiende el ritmo del sábado."],
+    "carreras": ["Hoy no hay carrera. Boxes cerrados, casco guardado, siesta autorizada."],
+    "sirena": ["En el fondo del mar no suenan alarmas. Solo olas… y yo flotando feliz."],
+    "astronauta": ["En órbita el reloj es raro. Extraño los sábados terrestres sin alarma."],
+    "colombiana": ["¡Parce, sábado de cero alarmas! Tintico tarde, cobija y cero afán, de una."]
+  }
+}
