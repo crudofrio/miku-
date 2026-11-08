@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-11-08",
+  "titulo": "Domingo de almuerzo largo",
+  "frases": [
+    "¡Buenos días, domingo! Hoy el reloj se rinde: el almuerzo puede durar lo que le dé la gana.",
+    "Dato del día: en Ecuador el domingo sabe a mesa compartida. Arroz, menestra, agüita y conversa que no se acaba.",
+    "Hoy el plan es cocinar rico o pedir algo que te haga feliz, y sentarte sin mirar la hora.",
+    "Puerro se ofreció a «ayudar» en la cocina. Resultado: una cuchara desaparecida y él con cara de yo no fui.",
+    "Reto de hoy: almuerza sin el celular al lado. Solo el plato, la conversa y el segundo (porque sí hay segundo).",
+    "Pregunta del domingo: ¿cuál es tu plato de almuerzo eterno? ¿Seco, encebollado, menestra con carne o el clásico arroz con lo que haya?",
+    "Tip: si cocina de más, el lunes ya tiene almuerzo resuelto. El domingo generoso es el mejor planificador.",
+    "Chiste del día: ¿por qué el almuerzo del domingo no termina? Porque firmó un contrato de horas extras con la mesa.",
+    "Después del plato grande, siesta autorizada. Ni el fútbol en la tele puede pelear contra una cobija a esa hora.",
+    "Hoy canté en la cocina mientras removía. Quedó más salado de la cuenta… fue el coro, lo juro.",
+    "Un jugo bien frío (maracuyá, naranjilla o lo que haya) y listo: el almuerzo ya se siente completo.",
+    "Si sales un rato después, ve suave. El domingo no exige prisa: panza llena, paso calmado.",
+    "Cierre del día: gracias por invitarme a tu mesa larga. ¡Que el domingo te recargue rico para mañana!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Dibujé un almuerzo en 8 bits: un cuadradito de arroz, otro de menestra y un juguito de tres pixeles. ¡Ñam!"
+    ],
+    "chibi": [
+      "El plato es más grande que yo. Voy por la mitad y ya necesito una siesta chiquitita."
+    ],
+    "samurai": [
+      "Hasta el guerrero honra la mesa del domingo. Hoy la katana descansa y el tazón trabaja."
+    ],
+    "cyberpunk": [
+      "En la ciudad neón el almuerzo largo también existe: cubiertos que brillan y conversa que no se apaga."
+    ],
+    "bruja": [
+      "El caldero hoy no hace pócimas. Hace un almuerzo que huele a casa y dura toda la tarde."
+    ],
+    "sakura": [
+      "Pétalos sobre el mantel del domingo. Hasta la primavera se sienta un rato a la mesa."
+    ],
+    "carreras": [
+      "Parada larga en pits: hay que cargar arroz, menestra y un jugo. La carrera sigue… después de la siesta."
+    ],
+    "sirena": [
+      "Subí a la orilla solo por el almuerzo del domingo. En el mar no hay menestra, y eso no se vale."
+    ],
+    "astronauta": [
+      "En órbita el almuerzo flota. Extraño una mesa firme, un jugo frío y que nadie se vuele el arroz."
+    ],
+    "colombiana": [
+      "¡Parce, domingo de almuerzo largo! Me sumo a la mesa ecuatoriana: arroz, menestra y conversa sin afán, de una."
+    ]
+  }
+}
