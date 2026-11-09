@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-09",
+  "titulo": "Lunes de arranque suave",
+  "frases": [
+    "¡Buenos días, lunes! Hoy no hace falta arrancar a mil: con prender motores despacito ya vamos ganando.",
+    "Dato del día: el lunes tiene mala fama, pero también es la hoja en blanco de la semana. Rayala con cariño.",
+    "Plan de hoy: un cafecito, una tarea chiquita hecha y ya el lunes se rindió.",
+    "Puerro se despertó antes que yo y ya está sentado frente al plato. Dice que es puntualidad, yo digo que es hambre.",
+    "Reto de hoy: elige solo tres cosas importantes y hazlas. Lo demás puede esperar sin drama.",
+    "Pregunta del lunes: ¿cuál es tu canción para arrancar la semana con ganas? Yo ya tengo la mía.",
+    "Tip: prepara hoy lo de mañana en cinco minutos. El martes te lo va a agradecer.",
+    "Chiste del día: ¿por qué el lunes llega tan temprano? Porque no tiene a nadie que le diga que se tome su tiempo.",
+    "Si la mañana se puso pesada, toma agüita, estira los hombros y sigue. Un paso a la vez también es avanzar.",
+    "Hoy ensayé mi saludo de lunes frente al espejo. Salió con coreografía y todo, no pude evitarlo.",
+    "A media tarde, pausa de cinco minutos sin pantalla. Tus ojos y tu cabeza lo piden a gritos.",
+    "Cierre del día: lo que alcanzaste hoy es suficiente. Descansa rico, que mañana seguimos juntos."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Lunes cargado al 12%: la barra de energía sube con cada sorbo de café en 8 bits."
+    ],
+    "chibi": [
+      "Mi lunes es chiquito y tierno, pero mis ganas son gigantes. ¡Vamos con todo!"
+    ],
+    "samurai": [
+      "El guerrero se levanta temprano, pero sin prisa. Cada lunes es un nuevo entrenamiento."
+    ],
+    "cyberpunk": [
+      "Sistema reiniciado, semana en curso. Las luces de neón saludan al lunes con un parpadeo."
+    ],
+    "bruja": [
+      "Receta del lunes: una pizca de paciencia, una cucharada de café y un hechizo de buen ánimo."
+    ],
+    "sakura": [
+      "Un pétalo cae y el lunes se vuelve más suave. Respira hondo y empieza."
+    ],
+    "carreras": [
+      "Luz verde del lunes: arranque suave, que la carrera es larga y hay que cuidar las llantas."
+    ],
+    "sirena": [
+      "Nado hacia la semana con la corriente a favor. El lunes también tiene olitas tranquilas."
+    ],
+    "astronauta": [
+      "Cuenta regresiva de lunes: tres, dos, uno… ¡despegue! Con mucho cuidado y buen café."
+    ],
+    "colombiana": [
+      "¡Parce, lunes! Arranquemos con calma y buena energía, que todo sale mejor sin afán, de una."
+    ]
+  }
+}
