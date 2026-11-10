@@ -1,0 +1,30 @@
+{
+  "fecha": "2026-11-10",
+  "titulo": "Martes de ponerse las pilas",
+  "frases": [
+    "¡Buenos días, martes! Ya pasó el arranque, hoy toca agarrar ritmo con calma y buena onda.",
+    "Dato del día: el martes es el día en que la semana ya se acomodó. Aprovecha que nadie te está apurando.",
+    "Plan de hoy: una cosa difícil primero, con cafecito en mano, y lo demás sale rodando.",
+    "Puerro hizo estiramientos de gato apenas me vio levantarme. Dice que es yoga, yo creo que es pura flojera elegante.",
+    "Reto de hoy: toma agua cada vez que mires el reloj. Tu cuerpo te lo va a agradecer.",
+    "Pregunta del martes: ¿qué fue lo mejor de ayer? Quédate con eso y úsalo de combustible.",
+    "Tip: si algo te toma menos de dos minutos, hazlo ya y quítatelo de la cabeza.",
+    "Chiste del día: ¿por qué el martes es tan modesto? Porque siempre está entre dos días famosos y ni se queja.",
+    "Si te cuesta concentrarte, pon una canción que te guste y trabaja hasta que termine. Una canción a la vez.",
+    "Hoy practiqué mi baile de martes frente al espejo. Mejoró un poquito, pero la dignidad no la recuperé.",
+    "A media tarde, sal a ver el cielo cinco minutos. Aunque haga garúa, despeja la cabeza.",
+    "Cierre del día: lo que hiciste hoy cuenta, aunque sea poquito. Descansa rico, que aquí seguimos mañana."
+  ],
+  "por_variante": {
+    "pixel": ["Martes nivel 2 desbloqueado: la barra de energía ya va por el 40%. ¡Sigue sumando puntos!"],
+    "chibi": ["Mi martes es chiquito, pero ya agarró vuelo. ¡Vamos con todo, con ternura incluida!"],
+    "samurai": ["El segundo día de entrenamiento afina la espada. Constancia antes que prisa."],
+    "cyberpunk": ["Conexión estable, semana en marcha. El neón del martes brilla un poco más fuerte."],
+    "bruja": ["Receta del martes: una pizca de enfoque, una cucharada de café y un hechizo de constancia."],
+    "sakura": ["Los pétalos ya encontraron su camino. Tú también, paso a paso."],
+    "carreras": ["Segunda vuelta del martes: ya calentaron las llantas, ahora a mantener el ritmo."],
+    "sirena": ["La corriente del martes es firme pero amable. Nada con ella y llegarás lejos."],
+    "astronauta": ["Órbita estable en el día dos. Todos los sistemas del martes funcionan, adelante."],
+    "colombiana": ["¡Parce, martes! Ya cogimos el ritmo, así que a seguir con calma y de una."]
+  }
+}
