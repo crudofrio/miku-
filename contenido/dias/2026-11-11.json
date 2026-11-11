@@ -1,0 +1,30 @@
+{
+  "fecha": "2026-11-11",
+  "titulo": "Miércoles de mitad de camino",
+  "frases": [
+    "¡Buenos días, miércoles! Estamos justo a la mitad de la semana, así que ya van más días hechos que por hacer.",
+    "Dato del día: el miércoles es el lomo de la semana. Si lo cruzas con buena onda, el resto es bajada.",
+    "Plan de hoy: una tarea importante antes del almuerzo y lo demás con calma.",
+    "Puerro se subió a mi teclado a las seis de la mañana. Dice que está ayudando; yo creo que quiere desayuno.",
+    "Reto de hoy: levántate de la silla cada hora y estira los brazos como si fueras a abrazar el día.",
+    "Pregunta del miércoles: ¿qué cosa chiquita te sacó una sonrisa esta semana? Anótala, que se te olvida.",
+    "Tip: ordena solo un rincón de tu escritorio. Con eso la cabeza ya respira mejor.",
+    "Chiste del día: ¿por qué el miércoles se cree jefe? Porque siempre está en el medio de todo.",
+    "Si hoy hay garúa en Guayaquil, perfecto: excusa oficial para un cafecito y una canción tranquila.",
+    "Hoy ensayé mi pasito de baile en la cocina. Salió regular, pero la sartén aplaudió.",
+    "A media tarde, toma agua y revisa tu lista: seguro ya hiciste más de lo que crees.",
+    "Cierre del día: llegaste a la mitad y vas bien. Descansa rico, que mañana seguimos."
+  ],
+  "por_variante": {
+    "pixel": ["Checkpoint desbloqueado: mitad de semana. Barra de energía al 50% y subiendo."],
+    "chibi": ["¡Ya llegamos a la mitad! Un saltito de felicidad y seguimos, con ternura incluida."],
+    "samurai": ["A mitad del camino, el guerrero no corre ni se detiene. Paso firme, mente tranquila."],
+    "cyberpunk": ["Sistema en el punto medio: latencia baja, neón estable. Todo sigue en línea."],
+    "bruja": ["Receta del miércoles: una pizca de paciencia, un chorrito de café y un hechizo de buena racha."],
+    "sakura": ["Los pétalos ya van por la mitad del viento. Déjate llevar un ratito más."],
+    "carreras": ["Vuelta de media carrera: ya pasó el pit stop, ahora a mantener el ritmo."],
+    "sirena": ["La marea del miércoles está en calma. Flota un rato y recupera fuerzas."],
+    "astronauta": ["Tramo medio de la misión: combustible bien, rumbo correcto, la vista es preciosa."],
+    "colombiana": ["¡Parce, miércoles! Ya vamos a la mitad, así que con calma y de una, que todo sale."]
+  }
+}
