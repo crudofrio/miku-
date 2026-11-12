@@ -1,0 +1,30 @@
+{
+  "fecha": "2026-11-12",
+  "titulo": "Jueves de casi viernes",
+  "frases": [
+    "¡Buenos días, jueves! Hoy es casi viernes, así que ya se huele el fin de semana.",
+    "Dato del día: el jueves es el viernes con zapatos de oficina. Aguanta un poquito más.",
+    "Plan de hoy: termina lo pendiente de la semana antes de la tarde y el viernes te lo agradece.",
+    "Puerro durmió en mi laptop toda la noche. Dice que es su oficina; yo pago la luz.",
+    "Reto de hoy: toma un vaso de agua ahorita mismo. Sí, ahorita, te estoy viendo.",
+    "Pregunta del jueves: ¿qué canción te acompañó esta semana? Ponla otra vez.",
+    "Tip: escribe tres cosas por hacer y no más. Tachar es adictivo.",
+    "Chiste del día: ¿por qué el jueves es optimista? Porque ya ve el viernes en el horizonte.",
+    "Si hoy hace calorcito en Guayaquil, jugo frío y ventilador, que la vida es corta.",
+    "Hoy practiqué mi pasito de baile otra vez. La sartén ya me pide un bis.",
+    "A media tarde, estira el cuello y los hombros; tu espalda también trabaja.",
+    "Cierre del día: ya casi llegas. Descansa rico, que mañana es viernes."
+  ],
+  "por_variante": {
+    "pixel": ["Nivel 4 de 5 completado. Solo falta el jefe final: el viernes."],
+    "chibi": ["¡Casi, casi! Un saltito más y llegamos al viernes con ternura."],
+    "samurai": ["El camino se acorta. El guerrero afila la calma y avanza."],
+    "cyberpunk": ["Conexión estable al 80% de la semana. El fin de semana está cargando."],
+    "bruja": ["Receta del jueves: una pizca de ánimo, un hechizo de enfoque y café con canela."],
+    "sakura": ["Los pétalos ya ven el final del viento. Un día más y descansas."],
+    "carreras": ["Penúltima vuelta: mantén el ritmo y la bandera a cuadros está cerca."],
+    "sirena": ["La marea del jueves sube suave. Nada con calma hacia el viernes."],
+    "astronauta": ["Aproximación final de la misión semanal. Aterrizaje previsto: viernes."],
+    "colombiana": ["¡Parce, jueves! Ya casi, aguante un día más y de una al descanso."]
+  }
+}
