@@ -1,0 +1,30 @@
+{
+  "fecha": "2026-11-13",
+  "titulo": "Viernes de cierre y descanso merecido",
+  "frases": [
+    "¡Feliz viernes! Llegamos. Respira, que ya casi es fin de semana.",
+    "Dato del día: el viernes huele a pijama y a plan sin alarma.",
+    "Plan de hoy: cierra lo importante temprano y deja lo demás para el lunes sin culpa.",
+    "Puerro ya se acomodó en la cama como si fuera sábado. Qué disciplina, o qué flojera.",
+    "Reto de hoy: dedícale cinco minutos a una canción que te guste, sin hacer nada más.",
+    "Pregunta del viernes: ¿cuál fue tu mejor momento de la semana? Cuéntaselo a alguien.",
+    "Tip: antes de cerrar, anota qué te falta para el lunes. Tu yo del lunes te lo agradece.",
+    "Chiste del día: ¿qué le dijo el viernes al lunes? Nada, ni se hablan.",
+    "Si pega el solazo en Guayaquil, jugo frío y ventilador, que la semana ya cumplió.",
+    "Hoy mi pasito de baile salió con brillo de viernes. La sartén aplaudió.",
+    "A media tarde, estira y camina un ratito; el cuerpo también quiere fin de semana.",
+    "Cierre del día: lo lograste. Descansa rico y date un premio."
+  ],
+  "por_variante": {
+    "pixel": ["¡Jefe final derrotado! Semana completada, guardando partida."],
+    "chibi": ["¡Viernes! Saltitos de felicidad y abracitos para todos."],
+    "samurai": ["La batalla de la semana termina. El guerrero envaina la espada y descansa."],
+    "cyberpunk": ["Semana cargada al 100%. Modo descanso activado."],
+    "bruja": ["Receta del viernes: una pizca de calma, un hechizo de pereza y té de canela."],
+    "sakura": ["Los pétalos se posan tranquilos. La semana termina en calma."],
+    "carreras": ["¡Bandera a cuadros! Entra a boxes y descansa, campeón."],
+    "sirena": ["La marea del viernes te lleva suave hacia el descanso."],
+    "astronauta": ["Misión semanal cumplida. Aterrizaje exitoso: fin de semana."],
+    "colombiana": ["¡Parce, viernes! Pa' la casa y a descansar, que se lo ganó."]
+  }
+}
