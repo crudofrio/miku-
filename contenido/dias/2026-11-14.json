@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-14",
+  "titulo": "Sábado de pereza y mate de la tarde",
+  "frases": [
+    "¡Feliz sábado! Hoy el plan oficial es no tener plan.",
+    "Dato del día: el sábado sabe mejor con el desayuno tarde.",
+    "Plan de hoy: una cosita útil, una cosita rica y mucho descanso.",
+    "Puerro amaneció en modo sábado: cero movimiento y cara de felicidad.",
+    "Reto de hoy: pon una canción que te encante y cántala sin vergüenza.",
+    "Pregunta del sábado: ¿qué se te antoja almorzar? Piénsalo con calma.",
+    "Tip: ordena un solo rincón de tu cuarto. Pequeño logro, gran paz.",
+    "Chiste del día: ¿qué hace el sábado en la nevera? Se enfría y no se apura.",
+    "Si hay solazo en Guayaquil, jugo helado y sombrita, que no hay prisa.",
+    "Hoy mi pasito de baile salió con sabor a fin de semana. La sartén aprobó.",
+    "Sal a caminar un ratito o asómate a la ventana; el aire también cuenta.",
+    "Cierre del día: descansaste, disfrutaste, ganaste. Buen sábado."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Nivel bonus desbloqueado: sábado libre. Guardando partida."
+    ],
+    "chibi": [
+      "¡Sábado! Saltitos y abracitos sin horario."
+    ],
+    "samurai": [
+      "El guerrero descansa en sábado. Hasta la espada duerme la siesta."
+    ],
+    "cyberpunk": [
+      "Modo fin de semana activado. Notificaciones en silencio."
+    ],
+    "bruja": [
+      "Receta del sábado: té tibio, manta suave y un hechizo de pereza."
+    ],
+    "sakura": [
+      "Los pétalos bailan lento en este sábado tranquilo."
+    ],
+    "carreras": [
+      "Sábado de boxes: sin prisa, solo cambio de ánimo."
+    ],
+    "sirena": [
+      "La marea del sábado te mece suavecito."
+    ],
+    "astronauta": [
+      "Gravedad cero en la agenda. Flotando en sábado."
+    ],
+    "colombiana": [
+      "¡Parce, sábado! A descansar y a disfrutar, que se lo ganó."
+    ]
+  }
+}
