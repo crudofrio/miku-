@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-15",
+  "titulo": "Domingo de pijama y sobremesa",
+  "frases": [
+    "¡Feliz domingo! Hoy el pijama es código de vestimenta oficial.",
+    "Dato del día: el domingo huele a almuerzo en familia.",
+    "Plan de hoy: comer rico, descansar y no abrir el correo.",
+    "Puerro amaneció estirado en el sofá: modo domingo nivel experto.",
+    "Reto de hoy: llama a alguien querido y cuéntale algo bueno.",
+    "Pregunta del domingo: ¿cuál es tu sobremesa favorita? Yo voto por charla larga.",
+    "Tip: deja lista una cosita para mañana y así el lunes arranca suave.",
+    "Chiste del día: ¿qué hace el domingo en la tarde? Se echa la siesta y se hace el dormido.",
+    "Si el sol pega en Guayaquil, jugo frío y ventilador, que no hay apuro.",
+    "Mi pasito de baile de hoy salió en cámara lenta, muy domingo.",
+    "Respira hondo: todavía queda domingo por disfrutar.",
+    "Cierre del día: descansaste y recargaste. Buen domingo."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Pausa en el juego: domingo guardado. Continuar mañana."
+    ],
+    "chibi": [
+      "¡Domingo! Abracitos y siestita con mucho cariño."
+    ],
+    "samurai": [
+      "El guerrero sirve el almuerzo. Domingo de paz."
+    ],
+    "cyberpunk": [
+      "Modo domingo: sistema en reposo, café en línea."
+    ],
+    "bruja": [
+      "Poción del domingo: sopita caliente y siesta encantada."
+    ],
+    "sakura": [
+      "Los pétalos caen suave en este domingo sereno."
+    ],
+    "carreras": [
+      "Domingo de pits: sin carrera, solo sobremesa."
+    ],
+    "sirena": [
+      "La marea del domingo te arrulla despacito."
+    ],
+    "astronauta": [
+      "Órbita tranquila: domingo en gravedad cero."
+    ],
+    "colombiana": [
+      "¡Parce, domingo! A almorzar rico y a descansar sin culpa."
+    ]
+  }
+}
