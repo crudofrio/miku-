@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-16",
+  "titulo": "Lunes de café y buen arranque",
+  "frases": [
+    "¡Buen lunes! Arrancamos con calma y con café.",
+    "Dato del día: el lunes es solo un domingo con más agenda.",
+    "Plan de hoy: una cosa a la vez, sin correr.",
+    "Puerro amaneció con cara de lunes, pero igual movió la colita.",
+    "Reto de hoy: toma un vaso de agua antes del primer café.",
+    "Pregunta del lunes: ¿cuál es tu meta chiquita de hoy?",
+    "Tip: empieza por la tarea más fácil y agarra impulso.",
+    "Chiste del día: ¿qué le dijo el lunes al despertador? Cinco minutitos más.",
+    "Si el sol pega fuerte en Guayaquil, agüita fresca y pasito lento.",
+    "Mi pasito de baile de hoy: calentamiento de lunes, muy suavecito.",
+    "Respira hondo: la semana apenas empieza y tú vas con todo.",
+    "Cierre del día: lo que hiciste hoy ya cuenta. Buen lunes."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Nivel nuevo desbloqueado: lunes. Dificultad normal."
+    ],
+    "chibi": [
+      "¡Lunes! Abracito y a empezar la semana."
+    ],
+    "samurai": [
+      "Nueva semana, mente serena, paso firme."
+    ],
+    "cyberpunk": [
+      "Semana cargada: café en línea, lunes en proceso."
+    ],
+    "bruja": [
+      "Poción del lunes: café fuerte y ánimo encantado."
+    ],
+    "sakura": [
+      "Los pétalos del lunes caen suaves, empieza bien."
+    ],
+    "carreras": [
+      "Luz verde: arranca la semana, sin prisa pero sin freno."
+    ],
+    "sirena": [
+      "La marea del lunes te lleva con calma."
+    ],
+    "astronauta": [
+      "Despegue de la semana en 3, 2, 1."
+    ],
+    "colombiana": [
+      "¡Ay parce, lunes! Un tintico y pa' adelante."
+    ]
+  }
+}
