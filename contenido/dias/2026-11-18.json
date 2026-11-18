@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-18",
+  "titulo": "Miércoles de a poquito",
+  "frases": [
+    "¡Buen miércoles! Mitad de semana, mitad de camino, cero drama.",
+    "Dato del día: el miércoles es el viernes que todavía no se ha maquillado.",
+    "Plan de hoy: una tarea importante y un descanso de verdad.",
+    "Puerro hoy intentó adelantar el viernes. No funcionó, pero se divirtió.",
+    "Reto de hoy: toma un vaso de agua antes del café.",
+    "Pregunta del miércoles: ¿qué canción te sube el ánimo?",
+    "Tip: si algo toma menos de dos minutos, hazlo ya.",
+    "Chiste del día: ¿por qué el miércoles es tan callado? Porque está en el medio y no quiere opinar.",
+    "Si hace calorcito en Guayaquil, jugo frío y ventilador a todo.",
+    "Mi pasito de baile de hoy: dos pasos al frente, uno al costado, sin apuro.",
+    "Respira hondo: ya estás más cerca del fin de semana que del lunes.",
+    "Cierre del día: lo hecho a poquitos también cuenta. Buen miércoles."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Nivel 3 de 5 desbloqueado: miércoles superado."
+    ],
+    "chibi": [
+      "¡Miércoles! Saltito chiquito y vamos."
+    ],
+    "samurai": [
+      "A mitad del camino, el paso sigue firme."
+    ],
+    "cyberpunk": [
+      "Miércoles en línea: batería al 60%, ánimo al 100%."
+    ],
+    "bruja": [
+      "Hechizo del miércoles: paciencia con pizca de magia."
+    ],
+    "sakura": [
+      "Mitad de semana, mitad de flor: va floreciendo."
+    ],
+    "carreras": [
+      "Vuelta intermedia: mantén el ritmo."
+    ],
+    "sirena": [
+      "La marea de mitad de semana va a tu favor."
+    ],
+    "astronauta": [
+      "Punto medio de la misión: todo en orden."
+    ],
+    "colombiana": [
+      "¡Ay parce, miércoles! Ya casi, con toda la actitud."
+    ]
+  }
+}
