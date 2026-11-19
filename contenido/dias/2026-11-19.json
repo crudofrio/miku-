@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-19",
+  "titulo": "Jueves de casi viernes pero con calma",
+  "frases": [
+    "¡Buen jueves! Ya huele a viernes, pero todavía hay que caminar un poquito.",
+    "Dato del día: el jueves es el viernes con zapatos puestos.",
+    "Plan de hoy: terminar lo pendiente y dejar lo demás para mañana sin culpa.",
+    "Puerro hoy se sentó a ver el atardecer y declaró el jueves exitoso.",
+    "Reto de hoy: estira los hombros cada vez que mires el reloj.",
+    "Pregunta del jueves: ¿qué comida te hace feliz al instante?",
+    "Tip: anota tres cosas por hacer, no diez. Tu cabeza lo agradece.",
+    "Chiste del día: ¿por qué el jueves es optimista? Porque ya ve la luz del viernes.",
+    "Si hay solcito en Guayaquil, sombra, hielo y paciencia.",
+    "Mi pasito de baile de hoy: giro suave y saludo al aire.",
+    "Respira hondo: ya pasaste lo más pesado de la semana.",
+    "Cierre del día: hiciste lo que pudiste y eso ya es bastante. Buen jueves."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Jefe del nivel 4 derrotado: jueves casi completado."
+    ],
+    "chibi": [
+      "¡Jueves! Saltito y casi casi viernes."
+    ],
+    "samurai": [
+      "El camino casi termina; la calma es mi espada."
+    ],
+    "cyberpunk": [
+      "Jueves en línea: batería al 80%, ánimo estable."
+    ],
+    "bruja": [
+      "Hechizo del jueves: energía de reserva y buen humor."
+    ],
+    "sakura": [
+      "Los pétalos del jueves ya casi abren el fin de semana."
+    ],
+    "carreras": [
+      "Penúltima vuelta: mantén el ritmo."
+    ],
+    "sirena": [
+      "La marea del jueves te lleva suave hacia el viernes."
+    ],
+    "astronauta": [
+      "Aproximación final a la base fin de semana."
+    ],
+    "colombiana": [
+      "¡Ay parce, jueves! Ya casi, con calma y sabrosura."
+    ]
+  }
+}
