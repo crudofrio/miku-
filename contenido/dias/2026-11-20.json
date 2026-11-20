@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-20",
+  "titulo": "Viernes de respirar hondo y aflojar",
+  "frases": [
+    "¡Feliz viernes! Llegaste, y eso ya merece aplauso.",
+    "Dato del día: el viernes huele a pan recién hecho y a planes sin horario.",
+    "Plan de hoy: lo importante primero, lo demás con calma y sin culpa.",
+    "Puerro hoy declaró el viernes feriado en su corazón.",
+    "Reto de hoy: toma un vaso de agua y estira el cuello cada hora.",
+    "Pregunta del viernes: ¿cuál es tu antojo para esta noche?",
+    "Tip: cierra pestañas y pendientes que ya no necesitas. Respira.",
+    "Chiste del día: ¿por qué el viernes sonríe? Porque ya no le queda cuesta arriba.",
+    "Si hay calor en Guayaquil, hielo, sombra y música suave.",
+    "Mi pasito de baile de hoy: dos pasos al lado y un giro de celebración.",
+    "Ya casi sueltas la semana: una última tarea y listo.",
+    "Cierre del día: hoy descansa de verdad, te lo ganaste. Buen viernes."
+  ],
+  "por_variante": {
+    "pixel": [
+      "¡Nivel de la semana completado! Guardando partida de fin de semana."
+    ],
+    "chibi": [
+      "¡Viernes! Saltito doble y carita feliz."
+    ],
+    "samurai": [
+      "La semana terminó; envaino la espada y bebo té."
+    ],
+    "cyberpunk": [
+      "Viernes detectado: modo descanso activado."
+    ],
+    "bruja": [
+      "Hechizo del viernes: cansancio fuera, calma adentro."
+    ],
+    "sakura": [
+      "Los pétalos del viernes caen suaves sobre tu descanso."
+    ],
+    "carreras": [
+      "¡Bandera a cuadros! Cruzaste la meta de la semana."
+    ],
+    "sirena": [
+      "La marea del viernes te arrulla hacia el fin de semana."
+    ],
+    "astronauta": [
+      "Aterrizaje en la base fin de semana: todo en orden."
+    ],
+    "colombiana": [
+      "¡Ay parce, viernes! A descansar con sabrosura."
+    ]
+  }
+}
