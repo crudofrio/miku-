@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-21",
+  "titulo": "Sábado de cobijita y cero prisa",
+  "frases": [
+    "¡Buen sábado! Hoy el plan oficial es no tener plan.",
+    "Dato del día: el sábado huele a café recién hecho y a pijama cómoda.",
+    "Reto de hoy: haz una cosa que te guste solo porque sí.",
+    "Puerro amaneció estirándose como gato y declaró el sábado abierto.",
+    "Tip: si te da hambre, come rico; si te da sueño, duerme una siesta.",
+    "Pregunta del sábado: ¿qué canción pone a bailar hasta a tu sombra?",
+    "Chiste del día: ¿qué hace un lunes en sábado? Nada, porque no lo dejan entrar.",
+    "Si hace calorcito en Guayaquil, ventilador y jugo helado, sin discutir.",
+    "Mi pasito de baile de hoy: vaivén de cobija con giro de pantufla.",
+    "Respira hondo: nadie te está persiguiendo hoy, ni siquiera el reloj.",
+    "Ordena solo un cajón y ya te sentirás productivo; el resto, mañana.",
+    "Cierre del día: descansaste, sonreíste y eso cuenta. Buen sábado."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Sábado desbloqueado: modo descanso activado."
+    ],
+    "chibi": [
+      "¡Sábado! Saltito, cobijita y cero prisa."
+    ],
+    "samurai": [
+      "El guerrero también descansa: hoy la espada duerme."
+    ],
+    "cyberpunk": [
+      "Sábado en línea: notificaciones en silencio, ánimo estable."
+    ],
+    "bruja": [
+      "Hechizo del sábado: té tibio y tarde sin pendientes."
+    ],
+    "sakura": [
+      "Los pétalos del sábado caen despacito, sin apuro."
+    ],
+    "carreras": [
+      "Parada en boxes: el sábado es para recargar y no correr."
+    ],
+    "sirena": [
+      "Hoy floto en el sábado, con la corriente a favor."
+    ],
+    "astronauta": [
+      "Gravedad cero de pendientes: sábado en órbita tranquila."
+    ],
+    "colombiana": [
+      "¡Qué sábado tan bueno, mi vida! Tinto, calma y buena música."
+    ]
+  }
+}
