@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-22",
+  "titulo": "Domingo de sobremesa y pilas recargadas",
+  "frases": [
+    "¡Feliz domingo! Hoy toca desayuno largo y cero culpa.",
+    "Dato del día: el domingo sabe mejor con algo rico en la mesa.",
+    "Reto de hoy: llama o escríbele a alguien que quieras y dile algo bonito.",
+    "Puerro amaneció con cara de domingo y ya pidió su siesta oficial.",
+    "Tip: deja la ropa de mañana lista y duerme tranquilo esta noche.",
+    "Pregunta del domingo: ¿cuál es tu comida favorita para cerrar la semana?",
+    "Chiste del día: ¿por qué el domingo es tan corto? Porque se pasa volando de lo bueno.",
+    "Si hace calor en Guayaquil, jugo bien helado y ventilador al máximo.",
+    "Mi pasito de baile de hoy: giro de cuchara con meneíto de sobremesa.",
+    "Respira hondo: la semana nueva se arma de a poquito, no de golpe.",
+    "Anota tres cosas buenas de esta semana; seguro salen más de tres.",
+    "Cierre del día: descansaste, comiste rico y eso es ganar. Buen domingo."
+  ],
+  "por_variante": {
+    "pixel": [
+      "Domingo desbloqueado: guardando partida antes del lunes."
+    ],
+    "chibi": [
+      "¡Domingo! Saltito, sobremesa y mucha calma."
+    ],
+    "samurai": [
+      "El guerrero afila el ánimo con calma antes de la semana."
+    ],
+    "cyberpunk": [
+      "Domingo en línea: batería al 100% y modo tranquilo."
+    ],
+    "bruja": [
+      "Hechizo del domingo: sopita caliente y mente en paz."
+    ],
+    "sakura": [
+      "Los pétalos del domingo caen suavecito, sin prisa."
+    ],
+    "carreras": [
+      "Parada en boxes: cambio de llantas para la semana que viene."
+    ],
+    "sirena": [
+      "Domingo de marea baja: floto y recargo energía."
+    ],
+    "astronauta": [
+      "Domingo en órbita: reabastecimiento de calma completado."
+    ],
+    "colombiana": [
+      "¡Qué domingo tan sabroso, mi vida! Almuerzo largo y buena charla."
+    ]
+  }
+}
