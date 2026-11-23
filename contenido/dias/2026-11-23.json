@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-23",
+  "titulo": "Lunes de pasito firme y buena vibra",
+  "frases": [
+    "¡Feliz lunes! Arrancamos de a poquito, pero arrancamos.",
+    "Dato del día: tomar agua antes del café hace que el lunes pese menos.",
+    "Reto de hoy: haz primero la tarea que más pereza te da y el resto fluye.",
+    "Puerro ya se estiró, bostezó y declaró el lunes oficialmente abierto.",
+    "Tip: divide el día en tres cosas importantes y listo, sin abrumarte.",
+    "Pregunta del lunes: ¿qué es lo primero que quieres lograr esta semana?",
+    "Chiste del día: ¿por qué el lunes llega tan temprano? Porque no tiene reloj de domingo.",
+    "Si hace calor en Guayaquil, ropa fresca y botella de agua a la mano.",
+    "Mi pasito de baile de hoy: taconeo de lunes con giro de taza de café.",
+    "Respira hondo: no tienes que hacerlo todo hoy, solo lo siguiente.",
+    "Haz una pausa de cinco minutos a media mañana; tu cabeza te lo agradece.",
+    "Cierre del día: avanzaste algo, y algo es más que nada. ¡Buen lunes!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Lunes: nivel nuevo cargado, ¡a por la primera misión!"
+    ],
+    "chibi": [
+      "¡Lunes! Saltito y a darle con ganas."
+    ],
+    "samurai": [
+      "El guerrero inicia la semana con paso firme y mente clara."
+    ],
+    "cyberpunk": [
+      "Lunes en línea: sistemas listos, café conectado."
+    ],
+    "bruja": [
+      "Hechizo del lunes: ánimo en la taza y pereza fuera."
+    ],
+    "sakura": [
+      "Los pétalos del lunes caen suaves; empieza sin prisa."
+    ],
+    "carreras": [
+      "Semáforo en verde: arranca la semana, ¡acelera con calma!"
+    ],
+    "sirena": [
+      "Lunes de marea nueva: nado hacia las metas de la semana."
+    ],
+    "astronauta": [
+      "Lunes: despegue autorizado, rumbo a una semana tranquila."
+    ],
+    "colombiana": [
+      "¡Ay, mi vida, buen lunes! Con tintico y toda la energía."
+    ]
+  }
+}
