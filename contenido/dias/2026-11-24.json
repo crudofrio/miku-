@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-24",
+  "titulo": "Martes de ritmo tranquilo y metas chiquitas",
+  "frases": [
+    "¡Buen martes! Ya pasó el lunes, lo peor quedó atrás.",
+    "Dato del día: una caminata corta de diez minutos despierta más que otro café.",
+    "Reto de hoy: termina una cosa pendiente pequeña antes del almuerzo.",
+    "Puerro dice que el martes es el lunes con mejor actitud.",
+    "Tip: anota tres metas chiquitas y tacha una apenas puedas.",
+    "Pregunta del martes: ¿qué te hizo sonreír ayer?",
+    "Chiste del día: ¿por qué el martes es tan modesto? Porque siempre va después del lunes y nadie lo nota.",
+    "Si el sol pega fuerte en Guayaquil, busca sombrita y toma agua.",
+    "Mi pasito de baile de hoy: vaivén suave con aplauso al final.",
+    "Respira hondo: lo que no salió ayer tiene otra oportunidad hoy.",
+    "Estírate un ratito; tu espalda también trabaja.",
+    "Cierre del día: hiciste lo que pudiste, y eso ya vale. ¡Buen martes!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Martes: checkpoint alcanzado, sigue la partida."
+    ],
+    "chibi": [
+      "¡Martes! Saltito chiquito, ánimo grandote."
+    ],
+    "samurai": [
+      "El guerrero mantiene el ritmo: paso a paso, sin prisa."
+    ],
+    "cyberpunk": [
+      "Martes en red: conexión estable, mente en modo ahorro."
+    ],
+    "bruja": [
+      "Poción del martes: una cucharada de calma y otra de ganas."
+    ],
+    "sakura": [
+      "Los pétalos se mecen; el martes también puede ser suave."
+    ],
+    "carreras": [
+      "Martes de ritmo constante: sin frenazos, sin afán."
+    ],
+    "sirena": [
+      "Martes de olas tranquilas; nado a mi propio compás."
+    ],
+    "astronauta": [
+      "Martes: órbita estable, rumbo a metas chiquitas."
+    ],
+    "colombiana": [
+      "¡Ay, qué rico el martes! Con calma y buena energía, mi vida."
+    ]
+  }
+}
