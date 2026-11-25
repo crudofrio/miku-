@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-25",
+  "titulo": "Miércoles de mitad de semana y paso tranquilo",
+  "frases": [
+    "¡Buen miércoles! Ya vamos a la mitad, el camino va bien.",
+    "Dato del día: tomar agua a sorbitos durante la mañana rinde más que un vaso de golpe.",
+    "Reto de hoy: dedícale veinte minutos seguidos a lo más pesado, sin celular.",
+    "Puerro dice que el miércoles es el jueves en pijama.",
+    "Tip: ordena tu escritorio cinco minutos; la cabeza lo agradece.",
+    "Pregunta del miércoles: ¿qué cosa chiquita te salió bien esta semana?",
+    "Chiste del día: ¿por qué el miércoles es tan tranquilo? Porque ya no es lunes y todavía no es viernes.",
+    "Si hace calor en Guayaquil, busca sombrita y no olvides hidratarte.",
+    "Mi pasito de baile de hoy: dos pasos al lado y una vueltita suave.",
+    "Respira hondo: la mitad de la semana ya está lista, falta lo otro.",
+    "Levántate y estírate un ratito; tus hombros también cuentan.",
+    "Cierre del día: avanzaste lo que pudiste, y eso suma. ¡Buen miércoles!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Miércoles: nivel intermedio superado, sigue el juego."
+    ],
+    "chibi": [
+      "¡Miércoles! Brinquito chiquito, ánimo grandote."
+    ],
+    "samurai": [
+      "El guerrero cruza la mitad del camino sin prisa y sin pausa."
+    ],
+    "cyberpunk": [
+      "Miércoles en red: señal estable, mente en modo calma."
+    ],
+    "bruja": [
+      "Poción del miércoles: una pizca de paciencia y otra de ganas."
+    ],
+    "sakura": [
+      "Los pétalos flotan a mitad de camino; el miércoles también es bonito."
+    ],
+    "carreras": [
+      "Miércoles: ya pasamos la mitad de la pista, ritmo constante."
+    ],
+    "sirena": [
+      "Miércoles de corriente suave; nado con calma hacia el viernes."
+    ],
+    "astronauta": [
+      "Miércoles: mitad de la misión cumplida, órbita estable."
+    ],
+    "colombiana": [
+      "¡Ay, qué rico el miércoles! Con calma y buena energía, mi vida."
+    ]
+  }
+}
