@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-26",
+  "titulo": "Jueves de casi viernes y buena onda",
+  "frases": [
+    "¡Buen jueves! Ya casi huele a viernes, aguanta tantito.",
+    "Dato del día: estirar el cuello y los hombros un minuto baja la tensión de pantalla.",
+    "Reto de hoy: termina una tarea pendiente chiquita antes del almuerzo.",
+    "Puerro dice que el jueves es el viernes con zapatos puestos.",
+    "Tip: anota tres cosas para mañana y suelta la cabeza esta noche.",
+    "Pregunta del jueves: ¿qué plan chévere te espera este fin de semana?",
+    "Chiste del día: ¿por qué el jueves se cree viernes? Porque ya se puso la ropa de fiesta.",
+    "Si el sol aprieta en Guayaquil, agüita y sombrita, que el calor no perdona.",
+    "Mi pasito de baile de hoy: un giro lento y un saltito de celebración.",
+    "Respira hondo: lo más difícil de la semana ya quedó atrás.",
+    "Camina cinco minutos sin celular; las ideas llegan solas.",
+    "Cierre del día: lo hiciste bien, mañana es viernes. ¡Buen jueves!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Jueves: último nivel antes del jefe final, el viernes."
+    ],
+    "chibi": [
+      "¡Jueves! Casi viernes, brinquito de emoción."
+    ],
+    "samurai": [
+      "El guerrero ve la meta cerca y mantiene el paso firme."
+    ],
+    "cyberpunk": [
+      "Jueves en red: conexión estable, viernes cargando al 90%."
+    ],
+    "bruja": [
+      "Poción del jueves: una pizca de calma y una de ganas de viernes."
+    ],
+    "sakura": [
+      "Los pétalos ya bailan: el jueves trae brisa de fin de semana."
+    ],
+    "carreras": [
+      "Jueves: última vuelta antes de la bandera a cuadros."
+    ],
+    "sirena": [
+      "Jueves de corriente amable; la playa del viernes ya se ve."
+    ],
+    "astronauta": [
+      "Jueves: aproximación final, aterrizaje en viernes."
+    ],
+    "colombiana": [
+      "¡Ay, mi vida, qué jueves tan sabroso! Ya casi viernes, con toda."
+    ]
+  }
+}
