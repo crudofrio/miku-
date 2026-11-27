@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-27",
+  "titulo": "Viernes de cierre tranquilo y finde a la vista",
+  "frases": [
+    "¡Feliz viernes! Ya casi, aguanta un ratito más.",
+    "Dato del día: cerrar pendientes chiquitos antes del mediodía te regala una tarde liviana.",
+    "Reto de hoy: termina una cosa que llevas postergando toda la semana.",
+    "Puerro dice que el viernes huele a descanso merecido.",
+    "Tip: anota tres cosas que sí lograste esta semana.",
+    "Pregunta del viernes: ¿qué plan chiquito te hace ilusión para el finde?",
+    "Chiste del día: ¿por qué el viernes camina más rápido? Porque el sábado lo está esperando.",
+    "Si hace calor en Guayaquil, agüita y sombrita, que el viernes se disfruta fresco.",
+    "Mi pasito de baile de hoy: un giro suave y los brazos arriba, modo fin de semana.",
+    "Respira hondo: lo difícil de la semana ya quedó atrás.",
+    "Estírate un ratito; tu espalda también quiere ya el finde.",
+    "Cierre del día: lo hiciste bien, ahora a descansar sin culpa. ¡Buen viernes!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Viernes: último nivel de la semana, ya casi el jefe final."
+    ],
+    "chibi": [
+      "¡Viernes! Brinquito de felicidad y cachetes contentos."
+    ],
+    "samurai": [
+      "El guerrero envaina la espada: la semana terminó con honor."
+    ],
+    "cyberpunk": [
+      "Viernes en red: desconexión programada, descanso en 3, 2, 1."
+    ],
+    "bruja": [
+      "Poción del viernes: una gotita de calma y mucho descanso."
+    ],
+    "sakura": [
+      "Los pétalos caen suave: el viernes cierra la semana con belleza."
+    ],
+    "carreras": [
+      "Viernes: bandera a cuadros a la vista, última vuelta tranquila."
+    ],
+    "sirena": [
+      "Viernes de marea baja; floto hacia el finde sin prisa."
+    ],
+    "astronauta": [
+      "Viernes: misión casi completa, preparando el aterrizaje."
+    ],
+    "colombiana": [
+      "¡Ay, qué viernes tan sabroso, mi vida! A descansar que se lo ganó."
+    ]
+  }
+}
