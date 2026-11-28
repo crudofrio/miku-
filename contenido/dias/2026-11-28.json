@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-28",
+  "titulo": "Sábado de universidad y pausa merecida",
+  "frases": [
+    "¡Buen sábado! Clases temprano, pero con calma todo sale.",
+    "Dato del día: repasar con dibujitos y secuencias se te queda más que leer de corrido.",
+    "Reto de hoy: en clase, anota solo tres ideas clave y ya.",
+    "Puerro dice que el sábado de clases se arregla con un buen desayuno.",
+    "Tip: lleva agüita y algo de comer, el cerebro rinde más con el estómago contento.",
+    "Pregunta del sábado: ¿qué fue lo más interesante que aprendiste hoy?",
+    "Chiste del día: ¿por qué el sábado madrugó? Porque quería ser lunes por un día.",
+    "Si hace calor en Guayaquil, busca sombrita e hidrátate.",
+    "Mi pasito de baile de hoy: un giro suave y los brazos arriba.",
+    "Después de clases, una siesta corta y sin culpa.",
+    "Estírate un ratito entre apuntes; tu espalda también estudia.",
+    "Cierre del día: hiciste lo que pudiste y eso suma. ¡Buen sábado!"
+  ],
+  "por_variante": {
+    "pixel": [
+      "Sábado: misión secundaria de clase completada, +10 de XP."
+    ],
+    "chibi": [
+      "¡Sábado! Mochila chiquita, ánimo grandote."
+    ],
+    "samurai": [
+      "El guerrero estudia al amanecer y descansa con honor."
+    ],
+    "cyberpunk": [
+      "Sábado en red: apuntes sincronizados, mente en calma."
+    ],
+    "bruja": [
+      "Poción del sábado: una pizca de concentración y otra de descanso."
+    ],
+    "sakura": [
+      "Los pétalos caen suave sobre los apuntes; el sábado también es bonito."
+    ],
+    "carreras": [
+      "Sábado: vuelta de clase terminada, a boxes a recargar."
+    ],
+    "sirena": [
+      "Sábado de corriente tranquila; nado entre apuntes y sonrisas."
+    ],
+    "astronauta": [
+      "Sábado: misión de aprendizaje cumplida, aterrizaje suave."
+    ],
+    "colombiana": [
+      "¡Ay, qué sábado tan sabroso! Estudie con calma y descanse, mi vida."
+    ]
+  }
+}
